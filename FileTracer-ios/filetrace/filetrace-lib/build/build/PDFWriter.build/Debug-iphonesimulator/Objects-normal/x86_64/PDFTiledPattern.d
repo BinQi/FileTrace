@@ -1,0 +1,27 @@
+dependencies: \
+  /Users/jerrywu/Dev/apple/FileTracer-ios/filetrace/filetrace-lib/PDFWriter/PDFTiledPattern.cpp \
+  /Users/jerrywu/Dev/apple/FileTracer-ios/filetrace/filetrace-lib/PDFWriter/PDFTiledPattern.h \
+  /Users/jerrywu/Dev/apple/FileTracer-ios/filetrace/filetrace-lib/PDFWriter/ObjectsBasicTypes.h \
+  /Users/jerrywu/Dev/apple/FileTracer-ios/filetrace/filetrace-lib/PDFWriter/ResourcesDictionary.h \
+  /Users/jerrywu/Dev/apple/FileTracer-ios/filetrace/filetrace-lib/PDFWriter/SingleValueContainerIterator.h \
+  /Users/jerrywu/Dev/apple/FileTracer-ios/filetrace/filetrace-lib/PDFWriter/ContainerIterator.h \
+  /Users/jerrywu/Dev/apple/FileTracer-ios/filetrace/filetrace-lib/PDFWriter/MapIterator.h \
+  /Users/jerrywu/Dev/apple/FileTracer-ios/filetrace/filetrace-lib/PDFWriter/PDFStream.h \
+  /Users/jerrywu/Dev/apple/FileTracer-ios/filetrace/filetrace-lib/PDFWriter/EStatusCode.h \
+  /Users/jerrywu/Dev/apple/FileTracer-ios/filetrace/filetrace-lib/PDFWriter/IOBasicTypes.h \
+  /Users/jerrywu/Dev/apple/FileTracer-ios/filetrace/filetrace-lib/PDFWriter/OutputFlateEncodeStream.h \
+  /Users/jerrywu/Dev/apple/FileTracer-ios/filetrace/filetrace-lib/PDFWriter/IByteWriterWithPosition.h \
+  /Users/jerrywu/Dev/apple/FileTracer-ios/filetrace/filetrace-lib/PDFWriter/IByteWriter.h \
+  /Users/jerrywu/Dev/apple/FileTracer-ios/filetrace/filetrace-lib/PDFWriter/MyStringBuf.h \
+  /Users/jerrywu/Dev/apple/FileTracer-ios/filetrace/filetrace-lib/PDFWriter/OutputStringBufferStream.h \
+  /Users/jerrywu/Dev/apple/FileTracer-ios/filetrace/filetrace-lib/PDFWriter/TiledPatternContentContext.h \
+  /Users/jerrywu/Dev/apple/FileTracer-ios/filetrace/filetrace-lib/PDFWriter/AbstractContentContext.h \
+  /Users/jerrywu/Dev/apple/FileTracer-ios/filetrace/filetrace-lib/PDFWriter/PrimitiveObjectsWriter.h \
+  /Users/jerrywu/Dev/apple/FileTracer-ios/filetrace/filetrace-lib/PDFWriter/ETokenSeparator.h \
+  /Users/jerrywu/Dev/apple/FileTracer-ios/filetrace/filetrace-lib/PDFWriter/GraphicStateStack.h \
+  /Users/jerrywu/Dev/apple/FileTracer-ios/filetrace/filetrace-lib/PDFWriter/GraphicState.h \
+  /Users/jerrywu/Dev/apple/FileTracer-ios/filetrace/filetrace-lib/PDFWriter/GlyphUnicodeMapping.h \
+  /Users/jerrywu/Dev/apple/FileTracer-ios/filetrace/filetrace-lib/PDFWriter/PDFParsingOptions.h \
+  /Users/jerrywu/Dev/apple/FileTracer-ios/filetrace/filetrace-lib/PDFWriter/ObjectsContext.h \
+  /Users/jerrywu/Dev/apple/FileTracer-ios/filetrace/filetrace-lib/PDFWriter/IndirectObjectsReferenceRegistry.h \
+  /Users/jerrywu/Dev/apple/FileTracer-ios/filetrace/filetrace-lib/PDFWriter/UppercaseSequance.h

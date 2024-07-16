@@ -1,0 +1,37 @@
+Target dependency graph (10 targets)
+ZERO_CHECK in filetrace-ios, no dependencies
+FreeType in filetrace-ios, depends on:
+ZERO_CHECK in filetrace-ios (explicit)
+LibAesgm in filetrace-ios, depends on:
+ZERO_CHECK in filetrace-ios (explicit)
+Zlib in filetrace-ios, depends on:
+ZERO_CHECK in filetrace-ios (explicit)
+PDFWriter in filetrace-ios, depends on:
+ZERO_CHECK in filetrace-ios (explicit)
+FreeType in filetrace-ios (explicit)
+LibAesgm in filetrace-ios (explicit)
+Zlib in filetrace-ios (explicit)
+ctgfiletrace-lib in filetrace-ios, depends on:
+ZERO_CHECK in filetrace-ios (explicit)
+FreeType in filetrace-ios (explicit)
+LibAesgm in filetrace-ios (explicit)
+PDFWriter in filetrace-ios (explicit)
+Zlib in filetrace-ios (explicit)
+LibJpeg in filetrace-ios, depends on:
+ZERO_CHECK in filetrace-ios (explicit)
+LibPng in filetrace-ios, depends on:
+ZERO_CHECK in filetrace-ios (explicit)
+Zlib in filetrace-ios (explicit)
+LibTiff in filetrace-ios, depends on:
+ZERO_CHECK in filetrace-ios (explicit)
+Zlib in filetrace-ios (explicit)
+ALL_BUILD in filetrace-ios, depends on:
+ZERO_CHECK in filetrace-ios (explicit)
+ctgfiletrace-lib in filetrace-ios (explicit)
+FreeType in filetrace-ios (explicit)
+LibAesgm in filetrace-ios (explicit)
+LibJpeg in filetrace-ios (explicit)
+LibPng in filetrace-ios (explicit)
+LibTiff in filetrace-ios (explicit)
+PDFWriter in filetrace-ios (explicit)
+Zlib in filetrace-ios (explicit)
