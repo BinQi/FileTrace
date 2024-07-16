@@ -1,0 +1,77 @@
+{
+  "buildFiles": [
+    "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/CMakeLists.txt",
+    "/Users/jerrywu/Library/Android/sdk/ndk-bundle/build/cmake/android.toolchain.cmake",
+    "/Users/jerrywu/Library/Android/sdk/ndk-bundle/build/cmake/platforms.cmake",
+    "/Users/jerrywu/Library/Android/sdk/ndk-bundle/build/cmake/compiler_id.cmake",
+    "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/FreeType/CMakeLists.txt",
+    "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/LibAesgm/CMakeLists.txt",
+    "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/LibJpeg/CMakeLists.txt",
+    "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/LibPng/CMakeLists.txt",
+    "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/LibTiff/CMakeLists.txt",
+    "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/CMakeLists.txt",
+    "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/ZLib/CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "/Users/jerrywu/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/.cxx/cmake/debug/arm64-v8a\" clean"
+  ],
+  "buildTargetsCommand": "/Users/jerrywu/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja  -C \"/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/.cxx/cmake/debug/arm64-v8a\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "LibAesgm-Debug-arm64-v8a": {
+      "artifactName": "LibAesgm",
+      "buildCommand": "/Users/jerrywu/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/.cxx/cmake/debug/arm64-v8a\" LibAesgm",
+      "abi": "arm64-v8a",
+      "output": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/.cxx/cmake/debug/arm64-v8a/LibAesgm/libLibAesgm.a",
+      "runtimeFiles": []
+    },
+    "LibJpeg-Debug-arm64-v8a": {
+      "artifactName": "LibJpeg",
+      "buildCommand": "/Users/jerrywu/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/.cxx/cmake/debug/arm64-v8a\" LibJpeg",
+      "abi": "arm64-v8a",
+      "output": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/.cxx/cmake/debug/arm64-v8a/LibJpeg/libLibJpeg.a",
+      "runtimeFiles": []
+    },
+    "FreeType-Debug-arm64-v8a": {
+      "artifactName": "FreeType",
+      "buildCommand": "/Users/jerrywu/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/.cxx/cmake/debug/arm64-v8a\" FreeType",
+      "abi": "arm64-v8a",
+      "output": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/.cxx/cmake/debug/arm64-v8a/FreeType/libFreeType.a",
+      "runtimeFiles": []
+    },
+    "ctgfiletrace-lib-Debug-arm64-v8a": {
+      "artifactName": "ctgfiletrace-lib",
+      "buildCommand": "/Users/jerrywu/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/.cxx/cmake/debug/arm64-v8a\" ctgfiletrace-lib",
+      "abi": "arm64-v8a",
+      "output": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/build/intermediates/cmake/debug/obj/arm64-v8a/libctgfiletrace-lib.so",
+      "runtimeFiles": []
+    },
+    "LibPng-Debug-arm64-v8a": {
+      "artifactName": "LibPng",
+      "buildCommand": "/Users/jerrywu/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/.cxx/cmake/debug/arm64-v8a\" LibPng",
+      "abi": "arm64-v8a",
+      "output": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/.cxx/cmake/debug/arm64-v8a/LibPng/libLibPng.a",
+      "runtimeFiles": []
+    },
+    "Zlib-Debug-arm64-v8a": {
+      "artifactName": "Zlib",
+      "buildCommand": "/Users/jerrywu/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/.cxx/cmake/debug/arm64-v8a\" Zlib",
+      "abi": "arm64-v8a",
+      "output": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/.cxx/cmake/debug/arm64-v8a/ZLib/libZlib.a",
+      "runtimeFiles": []
+    },
+    "PDFWriter-Debug-arm64-v8a": {
+      "artifactName": "PDFWriter",
+      "buildCommand": "/Users/jerrywu/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/.cxx/cmake/debug/arm64-v8a\" PDFWriter",
+      "abi": "arm64-v8a",
+      "output": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/.cxx/cmake/debug/arm64-v8a/PDFWriter/libPDFWriter.a",
+      "runtimeFiles": []
+    },
+    "LibTiff-Debug-arm64-v8a": {
+      "artifactName": "LibTiff",
+      "buildCommand": "/Users/jerrywu/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/.cxx/cmake/debug/arm64-v8a\" LibTiff",
+      "abi": "arm64-v8a",
+      "output": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/.cxx/cmake/debug/arm64-v8a/LibTiff/libLibTiff.a",
+      "runtimeFiles": []
+    }
+  }
+}

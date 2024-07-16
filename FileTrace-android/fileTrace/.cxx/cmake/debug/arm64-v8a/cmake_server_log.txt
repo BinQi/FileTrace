@@ -1,0 +1,894 @@
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"supportedProtocolVersions":[{"isExperimental":true,"major":1,"minor":1}],"type":"hello"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {
+  "type": "handshake",
+  "cookie": "gradle-cmake-cookie",
+  "protocolVersion": {
+    "isExperimental": true,
+    "major": 1,
+    "minor": 1
+  },
+  "sourceDirectory": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp",
+  "buildDirectory": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/.cxx/cmake/debug/arm64-v8a",
+  "generator": "Ninja"
+}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"gradle-cmake-cookie","inReplyTo":"handshake","type":"reply"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {
+  "type": "configure",
+  "cacheArguments": [
+    "",
+    "-DCMAKE_FIND_ROOT_PATH\u003d/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/.cxx/cmake/debug/prefab/arm64-v8a/prefab",
+    "-DCMAKE_BUILD_TYPE\u003dDebug",
+    "-DCMAKE_TOOLCHAIN_FILE\u003d/Users/jerrywu/Library/Android/sdk/ndk-bundle/build/cmake/android.toolchain.cmake",
+    "-DANDROID_ABI\u003darm64-v8a",
+    "-DANDROID_NDK\u003d/Users/jerrywu/Library/Android/sdk/ndk-bundle",
+    "-DANDROID_PLATFORM\u003dandroid-21",
+    "-DCMAKE_ANDROID_ARCH_ABI\u003darm64-v8a",
+    "-DCMAKE_ANDROID_NDK\u003d/Users/jerrywu/Library/Android/sdk/ndk-bundle",
+    "-DCMAKE_EXPORT_COMPILE_COMMANDS\u003dON",
+    "-DCMAKE_LIBRARY_OUTPUT_DIRECTORY\u003d/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/build/intermediates/cmake/debug/obj/arm64-v8a",
+    "-DCMAKE_MAKE_PROGRAM\u003d/Users/jerrywu/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja",
+    "-DCMAKE_SYSTEM_NAME\u003dAndroid",
+    "-DCMAKE_SYSTEM_VERSION\u003d21"
+  ]
+}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","message":"CMake Warning at /Users/jerrywu/Library/Android/sdk/ndk-bundle/build/cmake/android.toolchain.cmake:449 (message):\n  An old version of CMake is being used that cannot automatically detect\n  compiler attributes.  Compiler identification is being bypassed.  Some\n  values may be wrong or missing.  Update to CMake 3.19 or newer to use\n  CMake's built-in compiler identification.\nCall Stack (most recent call first):\n  /Users/jerrywu/Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeDetermineSystem.cmake:94 (include)\n  CMakeLists.txt\n\n","title":"Warning","type":"message"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: CMake Warning at /Users/jerrywu/Library/Android/sdk/ndk-bundle/build/cmake/android.toolchain.cmake:449 (message):
+  An old version of CMake is being used that cannot automatically detect
+  compiler attributes.  Compiler identification is being bypassed.  Some
+  values may be wrong or missing.  Update to CMake 3.19 or newer to use
+  CMake's built-in compiler identification.
+Call Stack (most recent call first):
+  /Users/jerrywu/Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeDetermineSystem.cmake:94 (include)
+  CMakeLists.txt
+
+CMAKE SERVER: CMake Warning at /Users/jerrywu/Library/Android/sdk/ndk-bundle/build/cmake/android.toolchain.cmake:449 (message):
+  An old version of CMake is being used that cannot automatically detect
+  compiler attributes.  Compiler identification is being bypassed.  Some
+  values may be wrong or missing.  Update to CMake 3.19 or newer to use
+  CMake's built-in compiler identification.
+Call Stack (most recent call first):
+  /Users/jerrywu/Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeDetermineSystem.cmake:94 (include)
+  CMakeLists.txt
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","message":"Check for working C compiler: /Users/jerrywu/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang","type":"message"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: Check for working C compiler: /Users/jerrywu/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang
+CMAKE SERVER: Check for working C compiler: /Users/jerrywu/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","message":"CMake Warning at /Users/jerrywu/Library/Android/sdk/ndk-bundle/build/cmake/android.toolchain.cmake:449 (message):\n  An old version of CMake is being used that cannot automatically detect\n  compiler attributes.  Compiler identification is being bypassed.  Some\n  values may be wrong or missing.  Update to CMake 3.19 or newer to use\n  CMake's built-in compiler identification.\nCall Stack (most recent call first):\n  /Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/.cxx/cmake/debug/arm64-v8a/CMakeFiles/3.10.2/CMakeSystem.cmake:6 (include)\n  /Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/.cxx/cmake/debug/arm64-v8a/CMakeFiles/CMakeTmp/CMakeLists.txt:2 (project)\n\n","title":"Warning","type":"message"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: CMake Warning at /Users/jerrywu/Library/Android/sdk/ndk-bundle/build/cmake/android.toolchain.cmake:449 (message):
+  An old version of CMake is being used that cannot automatically detect
+  compiler attributes.  Compiler identification is being bypassed.  Some
+  values may be wrong or missing.  Update to CMake 3.19 or newer to use
+  CMake's built-in compiler identification.
+Call Stack (most recent call first):
+  /Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/.cxx/cmake/debug/arm64-v8a/CMakeFiles/3.10.2/CMakeSystem.cmake:6 (include)
+  /Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/.cxx/cmake/debug/arm64-v8a/CMakeFiles/CMakeTmp/CMakeLists.txt:2 (project)
+
+CMAKE SERVER: CMake Warning at /Users/jerrywu/Library/Android/sdk/ndk-bundle/build/cmake/android.toolchain.cmake:449 (message):
+  An old version of CMake is being used that cannot automatically detect
+  compiler attributes.  Compiler identification is being bypassed.  Some
+  values may be wrong or missing.  Update to CMake 3.19 or newer to use
+  CMake's built-in compiler identification.
+Call Stack (most recent call first):
+  /Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/.cxx/cmake/debug/arm64-v8a/CMakeFiles/3.10.2/CMakeSystem.cmake:6 (include)
+  /Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/.cxx/cmake/debug/arm64-v8a/CMakeFiles/CMakeTmp/CMakeLists.txt:2 (project)
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","progressCurrent":33,"progressMaximum":1000,"progressMessage":"Configuring","progressMinimum":0,"type":"progress"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","message":"Check for working C compiler: /Users/jerrywu/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang -- works","type":"message"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: Check for working C compiler: /Users/jerrywu/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang -- works
+CMAKE SERVER: Check for working C compiler: /Users/jerrywu/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang -- works
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","message":"Detecting C compiler ABI info","type":"message"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: Detecting C compiler ABI info
+CMAKE SERVER: Detecting C compiler ABI info
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","message":"CMake Warning at /Users/jerrywu/Library/Android/sdk/ndk-bundle/build/cmake/android.toolchain.cmake:449 (message):\n  An old version of CMake is being used that cannot automatically detect\n  compiler attributes.  Compiler identification is being bypassed.  Some\n  values may be wrong or missing.  Update to CMake 3.19 or newer to use\n  CMake's built-in compiler identification.\nCall Stack (most recent call first):\n  /Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/.cxx/cmake/debug/arm64-v8a/CMakeFiles/3.10.2/CMakeSystem.cmake:6 (include)\n  /Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/.cxx/cmake/debug/arm64-v8a/CMakeFiles/CMakeTmp/CMakeLists.txt:2 (project)\n\n","title":"Warning","type":"message"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: CMake Warning at /Users/jerrywu/Library/Android/sdk/ndk-bundle/build/cmake/android.toolchain.cmake:449 (message):
+  An old version of CMake is being used that cannot automatically detect
+  compiler attributes.  Compiler identification is being bypassed.  Some
+  values may be wrong or missing.  Update to CMake 3.19 or newer to use
+  CMake's built-in compiler identification.
+Call Stack (most recent call first):
+  /Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/.cxx/cmake/debug/arm64-v8a/CMakeFiles/3.10.2/CMakeSystem.cmake:6 (include)
+  /Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/.cxx/cmake/debug/arm64-v8a/CMakeFiles/CMakeTmp/CMakeLists.txt:2 (project)
+
+CMAKE SERVER: CMake Warning at /Users/jerrywu/Library/Android/sdk/ndk-bundle/build/cmake/android.toolchain.cmake:449 (message):
+  An old version of CMake is being used that cannot automatically detect
+  compiler attributes.  Compiler identification is being bypassed.  Some
+  values may be wrong or missing.  Update to CMake 3.19 or newer to use
+  CMake's built-in compiler identification.
+Call Stack (most recent call first):
+  /Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/.cxx/cmake/debug/arm64-v8a/CMakeFiles/3.10.2/CMakeSystem.cmake:6 (include)
+  /Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/.cxx/cmake/debug/arm64-v8a/CMakeFiles/CMakeTmp/CMakeLists.txt:2 (project)
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","progressCurrent":65,"progressMaximum":1000,"progressMessage":"Configuring","progressMinimum":0,"type":"progress"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","message":"Detecting C compiler ABI info - done","type":"message"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: Detecting C compiler ABI info - done
+CMAKE SERVER: Detecting C compiler ABI info - done
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","message":"Detecting C compile features","type":"message"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: Detecting C compile features
+CMAKE SERVER: Detecting C compile features
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","message":"CMake Warning at /Users/jerrywu/Library/Android/sdk/ndk-bundle/build/cmake/android.toolchain.cmake:449 (message):\n  An old version of CMake is being used that cannot automatically detect\n  compiler attributes.  Compiler identification is being bypassed.  Some\n  values may be wrong or missing.  Update to CMake 3.19 or newer to use\n  CMake's built-in compiler identification.\nCall Stack (most recent call first):\n  /Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/.cxx/cmake/debug/arm64-v8a/CMakeFiles/3.10.2/CMakeSystem.cmake:6 (include)\n  /Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/.cxx/cmake/debug/arm64-v8a/CMakeFiles/CMakeTmp/CMakeLists.txt:2 (project)\n\n","title":"Warning","type":"message"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: CMake Warning at /Users/jerrywu/Library/Android/sdk/ndk-bundle/build/cmake/android.toolchain.cmake:449 (message):
+  An old version of CMake is being used that cannot automatically detect
+  compiler attributes.  Compiler identification is being bypassed.  Some
+  values may be wrong or missing.  Update to CMake 3.19 or newer to use
+  CMake's built-in compiler identification.
+Call Stack (most recent call first):
+  /Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/.cxx/cmake/debug/arm64-v8a/CMakeFiles/3.10.2/CMakeSystem.cmake:6 (include)
+  /Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/.cxx/cmake/debug/arm64-v8a/CMakeFiles/CMakeTmp/CMakeLists.txt:2 (project)
+
+CMAKE SERVER: CMake Warning at /Users/jerrywu/Library/Android/sdk/ndk-bundle/build/cmake/android.toolchain.cmake:449 (message):
+  An old version of CMake is being used that cannot automatically detect
+  compiler attributes.  Compiler identification is being bypassed.  Some
+  values may be wrong or missing.  Update to CMake 3.19 or newer to use
+  CMake's built-in compiler identification.
+Call Stack (most recent call first):
+  /Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/.cxx/cmake/debug/arm64-v8a/CMakeFiles/3.10.2/CMakeSystem.cmake:6 (include)
+  /Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/.cxx/cmake/debug/arm64-v8a/CMakeFiles/CMakeTmp/CMakeLists.txt:2 (project)
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","progressCurrent":96,"progressMaximum":1000,"progressMessage":"Configuring","progressMinimum":0,"type":"progress"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","message":"CMake Warning at /Users/jerrywu/Library/Android/sdk/ndk-bundle/build/cmake/android.toolchain.cmake:449 (message):\n  An old version of CMake is being used that cannot automatically detect\n  compiler attributes.  Compiler identification is being bypassed.  Some\n  values may be wrong or missing.  Update to CMake 3.19 or newer to use\n  CMake's built-in compiler identification.\nCall Stack (most recent call first):\n  /Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/.cxx/cmake/debug/arm64-v8a/CMakeFiles/3.10.2/CMakeSystem.cmake:6 (include)\n  /Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/.cxx/cmake/debug/arm64-v8a/CMakeFiles/CMakeTmp/CMakeLists.txt:2 (project)\n\n","title":"Warning","type":"message"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: CMake Warning at /Users/jerrywu/Library/Android/sdk/ndk-bundle/build/cmake/android.toolchain.cmake:449 (message):
+  An old version of CMake is being used that cannot automatically detect
+  compiler attributes.  Compiler identification is being bypassed.  Some
+  values may be wrong or missing.  Update to CMake 3.19 or newer to use
+  CMake's built-in compiler identification.
+Call Stack (most recent call first):
+  /Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/.cxx/cmake/debug/arm64-v8a/CMakeFiles/3.10.2/CMakeSystem.cmake:6 (include)
+  /Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/.cxx/cmake/debug/arm64-v8a/CMakeFiles/CMakeTmp/CMakeLists.txt:2 (project)
+
+CMAKE SERVER: CMake Warning at /Users/jerrywu/Library/Android/sdk/ndk-bundle/build/cmake/android.toolchain.cmake:449 (message):
+  An old version of CMake is being used that cannot automatically detect
+  compiler attributes.  Compiler identification is being bypassed.  Some
+  values may be wrong or missing.  Update to CMake 3.19 or newer to use
+  CMake's built-in compiler identification.
+Call Stack (most recent call first):
+  /Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/.cxx/cmake/debug/arm64-v8a/CMakeFiles/3.10.2/CMakeSystem.cmake:6 (include)
+  /Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/.cxx/cmake/debug/arm64-v8a/CMakeFiles/CMakeTmp/CMakeLists.txt:2 (project)
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","progressCurrent":126,"progressMaximum":1000,"progressMessage":"Configuring","progressMinimum":0,"type":"progress"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","message":"CMake Warning at /Users/jerrywu/Library/Android/sdk/ndk-bundle/build/cmake/android.toolchain.cmake:449 (message):\n  An old version of CMake is being used that cannot automatically detect\n  compiler attributes.  Compiler identification is being bypassed.  Some\n  values may be wrong or missing.  Update to CMake 3.19 or newer to use\n  CMake's built-in compiler identification.\nCall Stack (most recent call first):\n  /Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/.cxx/cmake/debug/arm64-v8a/CMakeFiles/3.10.2/CMakeSystem.cmake:6 (include)\n  /Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/.cxx/cmake/debug/arm64-v8a/CMakeFiles/CMakeTmp/CMakeLists.txt:2 (project)\n\n","title":"Warning","type":"message"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: CMake Warning at /Users/jerrywu/Library/Android/sdk/ndk-bundle/build/cmake/android.toolchain.cmake:449 (message):
+  An old version of CMake is being used that cannot automatically detect
+  compiler attributes.  Compiler identification is being bypassed.  Some
+  values may be wrong or missing.  Update to CMake 3.19 or newer to use
+  CMake's built-in compiler identification.
+Call Stack (most recent call first):
+  /Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/.cxx/cmake/debug/arm64-v8a/CMakeFiles/3.10.2/CMakeSystem.cmake:6 (include)
+  /Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/.cxx/cmake/debug/arm64-v8a/CMakeFiles/CMakeTmp/CMakeLists.txt:2 (project)
+
+CMAKE SERVER: CMake Warning at /Users/jerrywu/Library/Android/sdk/ndk-bundle/build/cmake/android.toolchain.cmake:449 (message):
+  An old version of CMake is being used that cannot automatically detect
+  compiler attributes.  Compiler identification is being bypassed.  Some
+  values may be wrong or missing.  Update to CMake 3.19 or newer to use
+  CMake's built-in compiler identification.
+Call Stack (most recent call first):
+  /Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/.cxx/cmake/debug/arm64-v8a/CMakeFiles/3.10.2/CMakeSystem.cmake:6 (include)
+  /Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/.cxx/cmake/debug/arm64-v8a/CMakeFiles/CMakeTmp/CMakeLists.txt:2 (project)
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","progressCurrent":155,"progressMaximum":1000,"progressMessage":"Configuring","progressMinimum":0,"type":"progress"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","message":"Detecting C compile features - done","type":"message"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: Detecting C compile features - done
+CMAKE SERVER: Detecting C compile features - done
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","message":"Check for working CXX compiler: /Users/jerrywu/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++","type":"message"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: Check for working CXX compiler: /Users/jerrywu/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++
+CMAKE SERVER: Check for working CXX compiler: /Users/jerrywu/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","message":"CMake Warning at /Users/jerrywu/Library/Android/sdk/ndk-bundle/build/cmake/android.toolchain.cmake:449 (message):\n  An old version of CMake is being used that cannot automatically detect\n  compiler attributes.  Compiler identification is being bypassed.  Some\n  values may be wrong or missing.  Update to CMake 3.19 or newer to use\n  CMake's built-in compiler identification.\nCall Stack (most recent call first):\n  /Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/.cxx/cmake/debug/arm64-v8a/CMakeFiles/3.10.2/CMakeSystem.cmake:6 (include)\n  /Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/.cxx/cmake/debug/arm64-v8a/CMakeFiles/CMakeTmp/CMakeLists.txt:2 (project)\n\n","title":"Warning","type":"message"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: CMake Warning at /Users/jerrywu/Library/Android/sdk/ndk-bundle/build/cmake/android.toolchain.cmake:449 (message):
+  An old version of CMake is being used that cannot automatically detect
+  compiler attributes.  Compiler identification is being bypassed.  Some
+  values may be wrong or missing.  Update to CMake 3.19 or newer to use
+  CMake's built-in compiler identification.
+Call Stack (most recent call first):
+  /Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/.cxx/cmake/debug/arm64-v8a/CMakeFiles/3.10.2/CMakeSystem.cmake:6 (include)
+  /Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/.cxx/cmake/debug/arm64-v8a/CMakeFiles/CMakeTmp/CMakeLists.txt:2 (project)
+
+CMAKE SERVER: CMake Warning at /Users/jerrywu/Library/Android/sdk/ndk-bundle/build/cmake/android.toolchain.cmake:449 (message):
+  An old version of CMake is being used that cannot automatically detect
+  compiler attributes.  Compiler identification is being bypassed.  Some
+  values may be wrong or missing.  Update to CMake 3.19 or newer to use
+  CMake's built-in compiler identification.
+Call Stack (most recent call first):
+  /Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/.cxx/cmake/debug/arm64-v8a/CMakeFiles/3.10.2/CMakeSystem.cmake:6 (include)
+  /Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/.cxx/cmake/debug/arm64-v8a/CMakeFiles/CMakeTmp/CMakeLists.txt:2 (project)
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","progressCurrent":184,"progressMaximum":1000,"progressMessage":"Configuring","progressMinimum":0,"type":"progress"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","message":"Check for working CXX compiler: /Users/jerrywu/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ -- works","type":"message"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: Check for working CXX compiler: /Users/jerrywu/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ -- works
+CMAKE SERVER: Check for working CXX compiler: /Users/jerrywu/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ -- works
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","message":"Detecting CXX compiler ABI info","type":"message"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: Detecting CXX compiler ABI info
+CMAKE SERVER: Detecting CXX compiler ABI info
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","message":"CMake Warning at /Users/jerrywu/Library/Android/sdk/ndk-bundle/build/cmake/android.toolchain.cmake:449 (message):\n  An old version of CMake is being used that cannot automatically detect\n  compiler attributes.  Compiler identification is being bypassed.  Some\n  values may be wrong or missing.  Update to CMake 3.19 or newer to use\n  CMake's built-in compiler identification.\nCall Stack (most recent call first):\n  /Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/.cxx/cmake/debug/arm64-v8a/CMakeFiles/3.10.2/CMakeSystem.cmake:6 (include)\n  /Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/.cxx/cmake/debug/arm64-v8a/CMakeFiles/CMakeTmp/CMakeLists.txt:2 (project)\n\n","title":"Warning","type":"message"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: CMake Warning at /Users/jerrywu/Library/Android/sdk/ndk-bundle/build/cmake/android.toolchain.cmake:449 (message):
+  An old version of CMake is being used that cannot automatically detect
+  compiler attributes.  Compiler identification is being bypassed.  Some
+  values may be wrong or missing.  Update to CMake 3.19 or newer to use
+  CMake's built-in compiler identification.
+Call Stack (most recent call first):
+  /Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/.cxx/cmake/debug/arm64-v8a/CMakeFiles/3.10.2/CMakeSystem.cmake:6 (include)
+  /Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/.cxx/cmake/debug/arm64-v8a/CMakeFiles/CMakeTmp/CMakeLists.txt:2 (project)
+
+CMAKE SERVER: CMake Warning at /Users/jerrywu/Library/Android/sdk/ndk-bundle/build/cmake/android.toolchain.cmake:449 (message):
+  An old version of CMake is being used that cannot automatically detect
+  compiler attributes.  Compiler identification is being bypassed.  Some
+  values may be wrong or missing.  Update to CMake 3.19 or newer to use
+  CMake's built-in compiler identification.
+Call Stack (most recent call first):
+  /Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/.cxx/cmake/debug/arm64-v8a/CMakeFiles/3.10.2/CMakeSystem.cmake:6 (include)
+  /Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/.cxx/cmake/debug/arm64-v8a/CMakeFiles/CMakeTmp/CMakeLists.txt:2 (project)
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","progressCurrent":211,"progressMaximum":1000,"progressMessage":"Configuring","progressMinimum":0,"type":"progress"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","message":"Detecting CXX compiler ABI info - done","type":"message"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: Detecting CXX compiler ABI info - done
+CMAKE SERVER: Detecting CXX compiler ABI info - done
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","message":"Detecting CXX compile features","type":"message"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: Detecting CXX compile features
+CMAKE SERVER: Detecting CXX compile features
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","message":"CMake Warning at /Users/jerrywu/Library/Android/sdk/ndk-bundle/build/cmake/android.toolchain.cmake:449 (message):\n  An old version of CMake is being used that cannot automatically detect\n  compiler attributes.  Compiler identification is being bypassed.  Some\n  values may be wrong or missing.  Update to CMake 3.19 or newer to use\n  CMake's built-in compiler identification.\nCall Stack (most recent call first):\n  /Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/.cxx/cmake/debug/arm64-v8a/CMakeFiles/3.10.2/CMakeSystem.cmake:6 (include)\n  /Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/.cxx/cmake/debug/arm64-v8a/CMakeFiles/CMakeTmp/CMakeLists.txt:2 (project)\n\n","title":"Warning","type":"message"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: CMake Warning at /Users/jerrywu/Library/Android/sdk/ndk-bundle/build/cmake/android.toolchain.cmake:449 (message):
+  An old version of CMake is being used that cannot automatically detect
+  compiler attributes.  Compiler identification is being bypassed.  Some
+  values may be wrong or missing.  Update to CMake 3.19 or newer to use
+  CMake's built-in compiler identification.
+Call Stack (most recent call first):
+  /Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/.cxx/cmake/debug/arm64-v8a/CMakeFiles/3.10.2/CMakeSystem.cmake:6 (include)
+  /Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/.cxx/cmake/debug/arm64-v8a/CMakeFiles/CMakeTmp/CMakeLists.txt:2 (project)
+
+CMAKE SERVER: CMake Warning at /Users/jerrywu/Library/Android/sdk/ndk-bundle/build/cmake/android.toolchain.cmake:449 (message):
+  An old version of CMake is being used that cannot automatically detect
+  compiler attributes.  Compiler identification is being bypassed.  Some
+  values may be wrong or missing.  Update to CMake 3.19 or newer to use
+  CMake's built-in compiler identification.
+Call Stack (most recent call first):
+  /Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/.cxx/cmake/debug/arm64-v8a/CMakeFiles/3.10.2/CMakeSystem.cmake:6 (include)
+  /Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/.cxx/cmake/debug/arm64-v8a/CMakeFiles/CMakeTmp/CMakeLists.txt:2 (project)
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","progressCurrent":237,"progressMaximum":1000,"progressMessage":"Configuring","progressMinimum":0,"type":"progress"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","message":"CMake Warning at /Users/jerrywu/Library/Android/sdk/ndk-bundle/build/cmake/android.toolchain.cmake:449 (message):\n  An old version of CMake is being used that cannot automatically detect\n  compiler attributes.  Compiler identification is being bypassed.  Some\n  values may be wrong or missing.  Update to CMake 3.19 or newer to use\n  CMake's built-in compiler identification.\nCall Stack (most recent call first):\n  /Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/.cxx/cmake/debug/arm64-v8a/CMakeFiles/3.10.2/CMakeSystem.cmake:6 (include)\n  /Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/.cxx/cmake/debug/arm64-v8a/CMakeFiles/CMakeTmp/CMakeLists.txt:2 (project)\n\n","title":"Warning","type":"message"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: CMake Warning at /Users/jerrywu/Library/Android/sdk/ndk-bundle/build/cmake/android.toolchain.cmake:449 (message):
+  An old version of CMake is being used that cannot automatically detect
+  compiler attributes.  Compiler identification is being bypassed.  Some
+  values may be wrong or missing.  Update to CMake 3.19 or newer to use
+  CMake's built-in compiler identification.
+Call Stack (most recent call first):
+  /Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/.cxx/cmake/debug/arm64-v8a/CMakeFiles/3.10.2/CMakeSystem.cmake:6 (include)
+  /Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/.cxx/cmake/debug/arm64-v8a/CMakeFiles/CMakeTmp/CMakeLists.txt:2 (project)
+
+CMAKE SERVER: CMake Warning at /Users/jerrywu/Library/Android/sdk/ndk-bundle/build/cmake/android.toolchain.cmake:449 (message):
+  An old version of CMake is being used that cannot automatically detect
+  compiler attributes.  Compiler identification is being bypassed.  Some
+  values may be wrong or missing.  Update to CMake 3.19 or newer to use
+  CMake's built-in compiler identification.
+Call Stack (most recent call first):
+  /Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/.cxx/cmake/debug/arm64-v8a/CMakeFiles/3.10.2/CMakeSystem.cmake:6 (include)
+  /Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/.cxx/cmake/debug/arm64-v8a/CMakeFiles/CMakeTmp/CMakeLists.txt:2 (project)
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","progressCurrent":262,"progressMaximum":1000,"progressMessage":"Configuring","progressMinimum":0,"type":"progress"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","message":"CMake Warning at /Users/jerrywu/Library/Android/sdk/ndk-bundle/build/cmake/android.toolchain.cmake:449 (message):\n  An old version of CMake is being used that cannot automatically detect\n  compiler attributes.  Compiler identification is being bypassed.  Some\n  values may be wrong or missing.  Update to CMake 3.19 or newer to use\n  CMake's built-in compiler identification.\nCall Stack (most recent call first):\n  /Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/.cxx/cmake/debug/arm64-v8a/CMakeFiles/3.10.2/CMakeSystem.cmake:6 (include)\n  /Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/.cxx/cmake/debug/arm64-v8a/CMakeFiles/CMakeTmp/CMakeLists.txt:2 (project)\n\n","title":"Warning","type":"message"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: CMake Warning at /Users/jerrywu/Library/Android/sdk/ndk-bundle/build/cmake/android.toolchain.cmake:449 (message):
+  An old version of CMake is being used that cannot automatically detect
+  compiler attributes.  Compiler identification is being bypassed.  Some
+  values may be wrong or missing.  Update to CMake 3.19 or newer to use
+  CMake's built-in compiler identification.
+Call Stack (most recent call first):
+  /Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/.cxx/cmake/debug/arm64-v8a/CMakeFiles/3.10.2/CMakeSystem.cmake:6 (include)
+  /Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/.cxx/cmake/debug/arm64-v8a/CMakeFiles/CMakeTmp/CMakeLists.txt:2 (project)
+
+CMAKE SERVER: CMake Warning at /Users/jerrywu/Library/Android/sdk/ndk-bundle/build/cmake/android.toolchain.cmake:449 (message):
+  An old version of CMake is being used that cannot automatically detect
+  compiler attributes.  Compiler identification is being bypassed.  Some
+  values may be wrong or missing.  Update to CMake 3.19 or newer to use
+  CMake's built-in compiler identification.
+Call Stack (most recent call first):
+  /Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/.cxx/cmake/debug/arm64-v8a/CMakeFiles/3.10.2/CMakeSystem.cmake:6 (include)
+  /Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/.cxx/cmake/debug/arm64-v8a/CMakeFiles/CMakeTmp/CMakeLists.txt:2 (project)
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","progressCurrent":287,"progressMaximum":1000,"progressMessage":"Configuring","progressMinimum":0,"type":"progress"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","message":"CMake Warning at /Users/jerrywu/Library/Android/sdk/ndk-bundle/build/cmake/android.toolchain.cmake:449 (message):\n  An old version of CMake is being used that cannot automatically detect\n  compiler attributes.  Compiler identification is being bypassed.  Some\n  values may be wrong or missing.  Update to CMake 3.19 or newer to use\n  CMake's built-in compiler identification.\nCall Stack (most recent call first):\n  /Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/.cxx/cmake/debug/arm64-v8a/CMakeFiles/3.10.2/CMakeSystem.cmake:6 (include)\n  /Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/.cxx/cmake/debug/arm64-v8a/CMakeFiles/CMakeTmp/CMakeLists.txt:2 (project)\n\n","title":"Warning","type":"message"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: CMake Warning at /Users/jerrywu/Library/Android/sdk/ndk-bundle/build/cmake/android.toolchain.cmake:449 (message):
+  An old version of CMake is being used that cannot automatically detect
+  compiler attributes.  Compiler identification is being bypassed.  Some
+  values may be wrong or missing.  Update to CMake 3.19 or newer to use
+  CMake's built-in compiler identification.
+Call Stack (most recent call first):
+  /Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/.cxx/cmake/debug/arm64-v8a/CMakeFiles/3.10.2/CMakeSystem.cmake:6 (include)
+  /Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/.cxx/cmake/debug/arm64-v8a/CMakeFiles/CMakeTmp/CMakeLists.txt:2 (project)
+
+CMAKE SERVER: CMake Warning at /Users/jerrywu/Library/Android/sdk/ndk-bundle/build/cmake/android.toolchain.cmake:449 (message):
+  An old version of CMake is being used that cannot automatically detect
+  compiler attributes.  Compiler identification is being bypassed.  Some
+  values may be wrong or missing.  Update to CMake 3.19 or newer to use
+  CMake's built-in compiler identification.
+Call Stack (most recent call first):
+  /Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/.cxx/cmake/debug/arm64-v8a/CMakeFiles/3.10.2/CMakeSystem.cmake:6 (include)
+  /Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/.cxx/cmake/debug/arm64-v8a/CMakeFiles/CMakeTmp/CMakeLists.txt:2 (project)
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","progressCurrent":311,"progressMaximum":1000,"progressMessage":"Configuring","progressMinimum":0,"type":"progress"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","message":"Detecting CXX compile features - done","type":"message"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: Detecting CXX compile features - done
+CMAKE SERVER: Detecting CXX compile features - done
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","progressCurrent":334,"progressMaximum":1000,"progressMessage":"Configuring","progressMinimum":0,"type":"progress"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","progressCurrent":356,"progressMaximum":1000,"progressMessage":"Configuring","progressMinimum":0,"type":"progress"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","progressCurrent":377,"progressMaximum":1000,"progressMessage":"Configuring","progressMinimum":0,"type":"progress"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","progressCurrent":398,"progressMaximum":1000,"progressMessage":"Configuring","progressMinimum":0,"type":"progress"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","progressCurrent":418,"progressMaximum":1000,"progressMessage":"Configuring","progressMinimum":0,"type":"progress"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","progressCurrent":438,"progressMaximum":1000,"progressMessage":"Configuring","progressMinimum":0,"type":"progress"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","progressCurrent":456,"progressMaximum":1000,"progressMessage":"Configuring","progressMinimum":0,"type":"progress"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","message":"Looking for unistd.h","type":"message"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: Looking for unistd.h
+CMAKE SERVER: Looking for unistd.h
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","message":"CMake Warning at /Users/jerrywu/Library/Android/sdk/ndk-bundle/build/cmake/android.toolchain.cmake:449 (message):\n  An old version of CMake is being used that cannot automatically detect\n  compiler attributes.  Compiler identification is being bypassed.  Some\n  values may be wrong or missing.  Update to CMake 3.19 or newer to use\n  CMake's built-in compiler identification.\nCall Stack (most recent call first):\n  /Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/.cxx/cmake/debug/arm64-v8a/CMakeFiles/3.10.2/CMakeSystem.cmake:6 (include)\n  /Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/.cxx/cmake/debug/arm64-v8a/CMakeFiles/CMakeTmp/CMakeLists.txt:2 (project)\n\n","title":"Warning","type":"message"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: CMake Warning at /Users/jerrywu/Library/Android/sdk/ndk-bundle/build/cmake/android.toolchain.cmake:449 (message):
+  An old version of CMake is being used that cannot automatically detect
+  compiler attributes.  Compiler identification is being bypassed.  Some
+  values may be wrong or missing.  Update to CMake 3.19 or newer to use
+  CMake's built-in compiler identification.
+Call Stack (most recent call first):
+  /Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/.cxx/cmake/debug/arm64-v8a/CMakeFiles/3.10.2/CMakeSystem.cmake:6 (include)
+  /Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/.cxx/cmake/debug/arm64-v8a/CMakeFiles/CMakeTmp/CMakeLists.txt:2 (project)
+
+CMAKE SERVER: CMake Warning at /Users/jerrywu/Library/Android/sdk/ndk-bundle/build/cmake/android.toolchain.cmake:449 (message):
+  An old version of CMake is being used that cannot automatically detect
+  compiler attributes.  Compiler identification is being bypassed.  Some
+  values may be wrong or missing.  Update to CMake 3.19 or newer to use
+  CMake's built-in compiler identification.
+Call Stack (most recent call first):
+  /Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/.cxx/cmake/debug/arm64-v8a/CMakeFiles/3.10.2/CMakeSystem.cmake:6 (include)
+  /Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/.cxx/cmake/debug/arm64-v8a/CMakeFiles/CMakeTmp/CMakeLists.txt:2 (project)
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","progressCurrent":474,"progressMaximum":1000,"progressMessage":"Configuring","progressMinimum":0,"type":"progress"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","message":"Looking for unistd.h - found","type":"message"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: Looking for unistd.h - found
+CMAKE SERVER: Looking for unistd.h - found
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","message":"FFFAAA","type":"message"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: FFFAAA
+CMAKE SERVER: FFFAAA
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","progressCurrent":912,"progressMaximum":1000,"progressMessage":"Configuring","progressMinimum":0,"type":"progress"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","progressCurrent":924,"progressMaximum":1000,"progressMessage":"Configuring","progressMinimum":0,"type":"progress"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","progressCurrent":937,"progressMaximum":1000,"progressMessage":"Configuring","progressMinimum":0,"type":"progress"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","progressCurrent":950,"progressMaximum":1000,"progressMessage":"Configuring","progressMinimum":0,"type":"progress"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","progressCurrent":962,"progressMaximum":1000,"progressMessage":"Configuring","progressMinimum":0,"type":"progress"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","progressCurrent":974,"progressMaximum":1000,"progressMessage":"Configuring","progressMinimum":0,"type":"progress"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","progressCurrent":987,"progressMaximum":1000,"progressMessage":"Configuring","progressMinimum":0,"type":"progress"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","progressCurrent":1000,"progressMaximum":1000,"progressMessage":"Configuring","progressMinimum":0,"type":"progress"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","message":"Configuring done","type":"message"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: Configuring done
+CMAKE SERVER: Configuring done
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","type":"reply"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"type":"compute"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"compute","progressCurrent":125,"progressMaximum":1000,"progressMessage":"Generating","progressMinimum":0,"type":"progress"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"compute","progressCurrent":250,"progressMaximum":1000,"progressMessage":"Generating","progressMinimum":0,"type":"progress"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"compute","progressCurrent":375,"progressMaximum":1000,"progressMessage":"Generating","progressMinimum":0,"type":"progress"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"compute","progressCurrent":500,"progressMaximum":1000,"progressMessage":"Generating","progressMinimum":0,"type":"progress"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"compute","progressCurrent":625,"progressMaximum":1000,"progressMessage":"Generating","progressMinimum":0,"type":"progress"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"compute","progressCurrent":750,"progressMaximum":1000,"progressMessage":"Generating","progressMinimum":0,"type":"progress"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"compute","progressCurrent":875,"progressMaximum":1000,"progressMessage":"Generating","progressMinimum":0,"type":"progress"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"compute","progressCurrent":1000,"progressMaximum":1000,"progressMessage":"Generating","progressMinimum":0,"type":"progress"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"compute","message":"Generating done","type":"message"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: Generating done
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"compute","type":"reply"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"type":"cmakeInputs"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"buildFiles":[{"isCMake":true,"isTemporary":false,"sources":["/Users/jerrywu/Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeDetermineSystem.cmake","/Users/jerrywu/Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android-Determine.cmake","/Users/jerrywu/Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeSystem.cmake.in","/Users/jerrywu/Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeSystemSpecificInitialize.cmake","/Users/jerrywu/Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android-Initialize.cmake","/Users/jerrywu/Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeDetermineCCompiler.cmake","/Users/jerrywu/Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeDetermineCompiler.cmake","/Users/jerrywu/Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android-Determine-C.cmake","/Users/jerrywu/Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android/Determine-Compiler.cmake","/Users/jerrywu/Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeFindBinUtils.cmake","/Users/jerrywu/Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-FindBinUtils.cmake","/Users/jerrywu/Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeCCompiler.cmake.in","/Users/jerrywu/Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeDetermineCXXCompiler.cmake","/Users/jerrywu/Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeDetermineCompiler.cmake","/Users/jerrywu/Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android-Determine-CXX.cmake","/Users/jerrywu/Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android/Determine-Compiler.cmake","/Users/jerrywu/Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeFindBinUtils.cmake","/Users/jerrywu/Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-FindBinUtils.cmake","/Users/jerrywu/Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeCXXCompiler.cmake.in","/Users/jerrywu/Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeSystemSpecificInformation.cmake","/Users/jerrywu/Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeGenericSystem.cmake","/Users/jerrywu/Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android.cmake","/Users/jerrywu/Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Linux.cmake","/Users/jerrywu/Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/UnixPaths.cmake","/Users/jerrywu/Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeCInformation.cmake","/Users/jerrywu/Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeLanguageInformation.cmake","/Users/jerrywu/Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-C.cmake","/Users/jerrywu/Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang.cmake","/Users/jerrywu/Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/CMakeCommonCompilerMacros.cmake","/Users/jerrywu/Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/GNU.cmake","/Users/jerrywu/Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/CMakeCommonCompilerMacros.cmake","/Users/jerrywu/Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android-Clang-C.cmake","/Users/jerrywu/Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android-Clang.cmake","/Users/jerrywu/Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeCommonLanguageInclude.cmake","/Users/jerrywu/Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeTestCCompiler.cmake","/Users/jerrywu/Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeTestCompilerCommon.cmake","/Users/jerrywu/Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeDetermineCompilerABI.cmake","/Users/jerrywu/Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeParseImplicitLinkInfo.cmake","/Users/jerrywu/Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeCCompilerABI.c","/Users/jerrywu/Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeDetermineCompileFeatures.cmake","/Users/jerrywu/Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Internal/FeatureTesting.cmake","/Users/jerrywu/Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-C-FeatureTests.cmake","/Users/jerrywu/Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-C-FeatureTests.cmake","/Users/jerrywu/Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-C-FeatureTests.cmake","/Users/jerrywu/Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeCCompiler.cmake.in","/Users/jerrywu/Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeCXXInformation.cmake","/Users/jerrywu/Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeLanguageInformation.cmake","/Users/jerrywu/Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-CXX.cmake","/Users/jerrywu/Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang.cmake","/Users/jerrywu/Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android-Clang-CXX.cmake","/Users/jerrywu/Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android-Clang.cmake","/Users/jerrywu/Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeCommonLanguageInclude.cmake","/Users/jerrywu/Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeTestCXXCompiler.cmake","/Users/jerrywu/Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeTestCompilerCommon.cmake","/Users/jerrywu/Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeDetermineCompilerABI.cmake","/Users/jerrywu/Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeParseImplicitLinkInfo.cmake","/Users/jerrywu/Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeCXXCompilerABI.cpp","/Users/jerrywu/Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeDetermineCompileFeatures.cmake","/Users/jerrywu/Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Internal/FeatureTesting.cmake","/Users/jerrywu/Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-CXX-FeatureTests.cmake","/Users/jerrywu/Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-CXX-TestableFeatures.cmake","/Users/jerrywu/Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-CXX-FeatureTests.cmake","/Users/jerrywu/Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-CXX-TestableFeatures.cmake","/Users/jerrywu/Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-CXX-FeatureTests.cmake","/Users/jerrywu/Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-CXX-TestableFeatures.cmake","/Users/jerrywu/Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-CXX-FeatureTests.cmake","/Users/jerrywu/Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-CXX-TestableFeatures.cmake","/Users/jerrywu/Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeCXXCompiler.cmake.in","/Users/jerrywu/Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CheckIncludeFile.cmake","/Users/jerrywu/Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CheckIncludeFile.c.in"]},{"isCMake":false,"isTemporary":false,"sources":["CMakeLists.txt","/Users/jerrywu/Library/Android/sdk/ndk-bundle/build/cmake/android.toolchain.cmake","/Users/jerrywu/Library/Android/sdk/ndk-bundle/build/cmake/platforms.cmake","/Users/jerrywu/Library/Android/sdk/ndk-bundle/build/cmake/compiler_id.cmake","/Users/jerrywu/Library/Android/sdk/ndk-bundle/build/cmake/android.toolchain.cmake","FreeType/CMakeLists.txt","LibAesgm/CMakeLists.txt","LibJpeg/CMakeLists.txt","LibPng/CMakeLists.txt","LibTiff/CMakeLists.txt","PDFWriter/CMakeLists.txt","ZLib/CMakeLists.txt"]},{"isCMake":false,"isTemporary":true,"sources":["../../../.cxx/cmake/debug/arm64-v8a/CMakeFiles/3.10.2/CMakeSystem.cmake","../../../.cxx/cmake/debug/arm64-v8a/CMakeFiles/3.10.2/CMakeCCompiler.cmake","../../../.cxx/cmake/debug/arm64-v8a/CMakeFiles/3.10.2/CMakeCXXCompiler.cmake","../../../.cxx/cmake/debug/arm64-v8a/CMakeFiles/feature_tests.c","../../../.cxx/cmake/debug/arm64-v8a/CMakeFiles/feature_tests.c","../../../.cxx/cmake/debug/arm64-v8a/CMakeFiles/feature_tests.c","../../../.cxx/cmake/debug/arm64-v8a/CMakeFiles/3.10.2/CMakeCCompiler.cmake","../../../.cxx/cmake/debug/arm64-v8a/CMakeFiles/feature_tests.cxx","../../../.cxx/cmake/debug/arm64-v8a/CMakeFiles/feature_tests.cxx","../../../.cxx/cmake/debug/arm64-v8a/CMakeFiles/feature_tests.cxx","../../../.cxx/cmake/debug/arm64-v8a/CMakeFiles/feature_tests.cxx","../../../.cxx/cmake/debug/arm64-v8a/CMakeFiles/3.10.2/CMakeCXXCompiler.cmake"]}],"cmakeRootDirectory":"/Users/jerrywu/Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10","cookie":"","inReplyTo":"cmakeInputs","sourceDirectory":"/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp","type":"reply"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"type":"codemodel"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"configurations":[{"name":"Debug","projects":[{"buildDirectory":"/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/.cxx/cmake/debug/arm64-v8a","name":"Project","sourceDirectory":"/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp","targets":[{"artifacts":["/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/build/intermediates/cmake/debug/obj/arm64-v8a/libctgfiletrace-lib.so"],"buildDirectory":"/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/.cxx/cmake/debug/arm64-v8a","fileGroups":[{"isGenerated":false,"sources":["fileTrace.h"]},{"compileFlags":"-g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -ffunction-sections -fdata-sections -O0 -fno-limit-debug-info  -fPIC  ","defines":["FT2_BUILD_LIBRARY=1","HAVE_UNISTD_H=1","PDFHUMMUS_NO_DCT=1","PDFHUMMUS_NO_PNG=1","PDFHUMMUS_NO_TIFF=1","ctgfiletrace_lib_EXPORTS"],"includePath":[{"path":"/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter"},{"path":"/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/ZLib"},{"path":"/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/FreeType/include"},{"path":"/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/LibAesgm"}],"isGenerated":false,"language":"CXX","sources":["filetrace-ctg.cpp","fileTrace.cpp"]}],"fullName":"libctgfiletrace-lib.so","linkFlags":"-Wl,--exclude-libs,libgcc.a -Wl,--exclude-libs,libgcc_real.a -Wl,--exclude-libs,libatomic.a -static-libstdc++ -Wl,--build-id=sha1 -Wl,--no-rosegment -Wl,--fatal-warnings -Wl,--no-undefined -Qunused-arguments   -Wl,--gc-sections,-s","linkLibraries":"PDFWriter/libPDFWriter.a ZLib/libZlib.a FreeType/libFreeType.a LibAesgm/libLibAesgm.a -latomic -lm","linkerLanguage":"CXX","name":"ctgfiletrace-lib","sourceDirectory":"/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp","sysroot":"/Users/jerrywu/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/sysroot","type":"SHARED_LIBRARY"},{"artifacts":["/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/.cxx/cmake/debug/arm64-v8a/FreeType/libFreeType.a"],"buildDirectory":"/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/.cxx/cmake/debug/arm64-v8a/FreeType","fileGroups":[{"isGenerated":false,"sources":["include/freetype/config/ftconfig.h","include/freetype/config/ftheader.h","include/freetype/config/ftmodule.h","include/freetype/config/ftoption.h","include/freetype/config/ftstdlib.h","include/ft2build.h"]},{"compileFlags":"-g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -ffunction-sections -fdata-sections -O0 -fno-limit-debug-info  -fPIC  ","defines":["FT2_BUILD_LIBRARY=1"],"includePath":[{"path":"/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/FreeType/include"},{"path":"/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/FreeType/include/freetype"},{"path":"/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/FreeType/include/freetype/config"},{"path":"/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/FreeType/include/src"},{"path":"/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/FreeType/include/freetype/internal"},{"path":"/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/FreeType/include/freetype/internal/services"}],"isGenerated":false,"language":"C","sources":["src/base/ftbbox.c","src/base/ftgxval.c","src/base/ftlcdfil.c","src/base/ftmm.c","src/base/ftotval.c","src/base/ftpatent.c","src/base/ftpfr.c","src/base/ftsynth.c","src/base/fttype1.c","src/base/ftwinfnt.c","src/base/ftxf86.c","src/pcf/pcf.c","src/pfr/pfr.c","src/psaux/psaux.c","src/pshinter/pshinter.c","src/psnames/psmodule.c","src/raster/raster.c","src/sfnt/sfnt.c","src/truetype/truetype.c","src/type1/type1.c","src/type42/type42.c","src/cid/type1cid.c","src/winfonts/winfnt.c","src/autofit/autofit.c","src/bdf/bdf.c","src/cff/cff.c","src/base/ftbase.c","src/base/ftbitmap.c","src/cache/ftcache.c","src/base/ftcid.c","src/base/ftdebug.c","src/base/ftfstype.c","src/base/ftgasp.c","src/base/ftglyph.c","src/gzip/ftgzip.c","src/base/ftinit.c","src/lzw/ftlzw.c","src/base/ftstroke.c","src/base/ftsystem.c","src/smooth/smooth.c"]}],"fullName":"libFreeType.a","linkerLanguage":"C","name":"FreeType","sourceDirectory":"/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/FreeType","sysroot":"/Users/jerrywu/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/sysroot","type":"STATIC_LIBRARY"},{"artifacts":["/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/.cxx/cmake/debug/arm64-v8a/LibAesgm/libLibAesgm.a"],"buildDirectory":"/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/.cxx/cmake/debug/arm64-v8a/LibAesgm","fileGroups":[{"isGenerated":false,"sources":["aescpp.h","aes.h","aes_ni.h","aesopt.h","aestab.h","aes_via_ace.h","brg_endian.h","brg_types.h"]},{"compileFlags":"-g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -ffunction-sections -fdata-sections -O0 -fno-limit-debug-info  -fPIC  ","isGenerated":false,"language":"C","sources":["aescrypt.c","aeskey.c","aes_modes.c","aes_ni.c","aestab.c"]}],"fullName":"libLibAesgm.a","linkerLanguage":"C","name":"LibAesgm","sourceDirectory":"/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/LibAesgm","sysroot":"/Users/jerrywu/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/sysroot","type":"STATIC_LIBRARY"},{"artifacts":["/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/.cxx/cmake/debug/arm64-v8a/LibJpeg/libLibJpeg.a"],"buildDirectory":"/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/.cxx/cmake/debug/arm64-v8a/LibJpeg","fileGroups":[{"isGenerated":false,"sources":["jconfig.h","jdct.h","jerror.h","jinclude.h","jmemsys.h","jmorecfg.h","jpegint.h","jpeglib.h","jversion.h"]},{"compileFlags":"-g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -ffunction-sections -fdata-sections -O0 -fno-limit-debug-info  -fPIC  ","isGenerated":false,"language":"C","sources":["jaricom.c","jcapimin.c","jcapistd.c","jcarith.c","jccoefct.c","jccolor.c","jcdctmgr.c","jchuff.c","jcinit.c","jcmainct.c","jcmarker.c","jcmaster.c","jcomapi.c","jcparam.c","jcprepct.c","jcsample.c","jctrans.c","jdapimin.c","jdapistd.c","jdarith.c","jdatadst.c","jdatasrc.c","jdcoefct.c","jdcolor.c","jddctmgr.c","jdhuff.c","jdinput.c","jdmainct.c","jdmarker.c","jdmaster.c","jdmerge.c","jdpostct.c","jdsample.c","jdtrans.c","jerror.c","jfdctflt.c","jfdctfst.c","jfdctint.c","jidctflt.c","jidctfst.c","jidctint.c","jmemmgr.c","jmemnobs.c","jquant1.c","jquant2.c","jutils.c"]}],"fullName":"libLibJpeg.a","linkerLanguage":"C","name":"LibJpeg","sourceDirectory":"/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/LibJpeg","sysroot":"/Users/jerrywu/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/sysroot","type":"STATIC_LIBRARY"},{"artifacts":["/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/.cxx/cmake/debug/arm64-v8a/LibPng/libLibPng.a"],"buildDirectory":"/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/.cxx/cmake/debug/arm64-v8a/LibPng","fileGroups":[{"isGenerated":false,"sources":["png.h","pngconf.h","pngdebug.h","pnginfo.h","pnglibconf.h","pngpriv.h","pngstruct.h"]},{"compileFlags":"-g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -ffunction-sections -fdata-sections -O0 -fno-limit-debug-info  -fPIC  ","defines":["HAVE_UNISTD_H=1"],"includePath":[{"path":"/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/ZLib"}],"isGenerated":false,"language":"C","sources":["png.c","pngerror.c","pngget.c","pngmem.c","pngpread.c","pngread.c","pngrio.c","pngrtran.c","pngrutil.c","pngset.c","pngtrans.c","pngwio.c","pngwrite.c","pngwtran.c","pngwutil.c"]}],"fullName":"libLibPng.a","linkerLanguage":"C","name":"LibPng","sourceDirectory":"/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/LibPng","sysroot":"/Users/jerrywu/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/sysroot","type":"STATIC_LIBRARY"},{"artifacts":["/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/.cxx/cmake/debug/arm64-v8a/LibTiff/libLibTiff.a"],"buildDirectory":"/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/.cxx/cmake/debug/arm64-v8a/LibTiff","fileGroups":[{"isGenerated":false,"sources":["t4.h","tiff.h","tiffconf.h","tiffio.h","tiffio.hxx","tiffiop.h","tiffvers.h","tif_config.h","tif_dir.h","tif_fax3.h","tif_predict.h","uvcode.h"]},{"compileFlags":"-g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -ffunction-sections -fdata-sections -O0 -fno-limit-debug-info  -fPIC  ","defines":["AVOID_WIN32_FILEIO=1","CCITT_SUPPORT=1","CHECK_JPEG_YCBCR_SUBSAMPLING=1","DEFAULT_EXTRASAMPLE_AS_ALPHA=1","FILLODER_LSB2MSB=1","HAVE_UNISTD_H=1","LOGLUV_SUPPORT=1","LZW_SUPPORT=1","NEXT_SUPPORT=1","PACKBITS_SUPPORT=1","PIXARLOG_SUPPORT=1","STRIPCHOP_DEFAULT=TIFF_STRIPCHOP","STRIP_SIZE_DEFAULT=8192","THUNDER_SUPPORT=1","TIF_PLATFORM_CONSOLE=1","ZIP_SUPPORT=1","_CRT_SECURE_NO_DEPRECATE=1"],"includePath":[{"path":"/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/ZLib"}],"isGenerated":false,"language":"CXX","sources":["tif_stream.cxx"]},{"compileFlags":"-g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -ffunction-sections -fdata-sections -O0 -fno-limit-debug-info  -fPIC  ","defines":["AVOID_WIN32_FILEIO=1","CCITT_SUPPORT=1","CHECK_JPEG_YCBCR_SUBSAMPLING=1","DEFAULT_EXTRASAMPLE_AS_ALPHA=1","FILLODER_LSB2MSB=1","HAVE_UNISTD_H=1","LOGLUV_SUPPORT=1","LZW_SUPPORT=1","NEXT_SUPPORT=1","PACKBITS_SUPPORT=1","PIXARLOG_SUPPORT=1","STRIPCHOP_DEFAULT=TIFF_STRIPCHOP","STRIP_SIZE_DEFAULT=8192","THUNDER_SUPPORT=1","TIF_PLATFORM_CONSOLE=1","ZIP_SUPPORT=1","_CRT_SECURE_NO_DEPRECATE=1"],"includePath":[{"path":"/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/ZLib"}],"isGenerated":false,"language":"C","sources":["tif_aux.c","tif_close.c","tif_codec.c","tif_color.c","tif_compress.c","tif_dir.c","tif_dirinfo.c","tif_dirread.c","tif_dirwrite.c","tif_dumpmode.c","tif_error.c","tif_extension.c","tif_fax3.c","tif_fax3sm.c","tif_flush.c","tif_getimage.c","tif_jbig.c","tif_jpeg.c","tif_luv.c","tif_lzw.c","tif_next.c","tif_ojpeg.c","tif_open.c","tif_packbits.c","tif_pixarlog.c","tif_predict.c","tif_print.c","tif_read.c","tif_strip.c","tif_swab.c","tif_thunder.c","tif_tile.c","tif_unix.c","tif_version.c","tif_warning.c","tif_write.c","tif_zip.c"]}],"fullName":"libLibTiff.a","linkerLanguage":"CXX","name":"LibTiff","sourceDirectory":"/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/LibTiff","sysroot":"/Users/jerrywu/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/sysroot","type":"STATIC_LIBRARY"},{"artifacts":["/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/.cxx/cmake/debug/arm64-v8a/PDFWriter/libPDFWriter.a"],"buildDirectory":"/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/.cxx/cmake/debug/arm64-v8a/PDFWriter","fileGroups":[{"isGenerated":false,"sources":["AbstractContentContext.h","AbstractWrittenFont.h","AdapterIByteReaderWithPositionToIReadPositionProvider.h","ANSIFontWriter.h","Ascii7Encoding.h","ArrayOfInputStreamsStream.h","BetweenIncluding.h","BoxingBase.h","CatalogInformation.h","CFFANSIFontWriter.h","CFFDescendentFontWriter.h","CFFEmbeddedFontWriter.h","CFFFileInput.h","CFFPrimitiveReader.h","CFFPrimitiveWriter.h","CharStringDefinitions.h","CharStringType1Interpreter.h","CharStringType1Tracer.h","CharStringType2Flattener.h","CharStringType2Interpreter.h","CharStringType2Tracer.h","CIDFontWriter.h","CMYKRGBColor.h","ContainerIterator.h","DecryptionHelper.h","Deletable.h","DescendentFontWriter.h","DictionaryContext.h","DictOperand.h","DocumentContext.h","DocumentContextExtenderAdapter.h","EFontStretch.h","EHummusImageType.h","EncryptionHelper.h","EncryptionOptions.h","EPDFVersion.h","EStatusCode.h","ETokenSeparator.h","FontDescriptorWriter.h","FreeTypeFaceWrapper.h","FreeTypeOpenTypeWrapper.h","FreeTypeType1Wrapper.h","FreeTypeWrapper.h","FSType.h","GlyphUnicodeMapping.h","GraphicState.h","GraphicStateStack.h","IANSIFontWriterHelper.h","IByteReader.h","IByteReaderWithPosition.h","IByteWriter.h","IByteWriterWithPosition.h","IContentContextListener.h","IDeletable.h","IDescendentFontWriter.h","IDocumentContextExtender.h","IFontDescriptorHelper.h","IFormEndWritingTask.h","ITiledPatternEndWritingTask.h","IFreeTypeFaceExtender.h","IndirectObjectsReferenceRegistry.h","InfoDictionary.h","InputAESDecodeStream.h","InputAscii85DecodeStream.h","InputAsciiHexDecodeStream.h","InputBufferedStream.h","InputByteArrayStream.h","InputCharStringDecodeStream.h","InputDCTDecodeStream.h","InputFile.h","InputFileStream.h","InputFlateDecodeStream.h","InputLZWDecodeStream.h","InputLimitedStream.h","InputOffsetStream.h","InputRC4XcodeStream.h","InputPFBDecodeStream.h","InputPredictorPNGOptimumStream.h","InputPredictorTIFFSubStream.h","InputStreamSkipperStream.h","InputStringBufferStream.h","InputStringStream.h","IOBasicTypes.h","IObjectsContextExtender.h","IPageEndWritingTask.h","IPDFParserExtender.h","IReadPositionProvider.h","IResourceWritingTask.h","IType1InterpreterImplementation.h","IType2InterpreterImplementation.h","IWrittenFont.h","JPEGImageHandler.h","JPEGImageInformation.h","JPEGImageParser.h","Log.h","MapIterator.h","MD5Generator.h","RC4.h","MyStringBuf.h","ObjectsBasicTypes.h","ObjectsContext.h","ObjectsContextExtenderAdapter.h","OpenTypeFileInput.h","OpenTypePrimitiveReader.h","OutputAESEncodeStream.h","OutputBufferedStream.h","OutputFile.h","OutputFileStream.h","OutputFlateDecodeStream.h","OutputFlateEncodeStream.h","OutputRC4XcodeStream.h","OutputStreamTraits.h","OutputStringBufferStream.h","PageContentContext.h","PageTree.h","ParsedPrimitiveHelper.h","PDFArray.h","PDFBoolean.h","PDFCosArray.h","PDFCosDict.h","PDFDate.h","PDFDictionary.h","PDFDocEncoding.h","PDFDocumentCopyingContext.h","PDFDocumentHandler.h","PDFEmbedParameterTypes.h","PDFFormXObject.h","PDFTiledPattern.h","TiledPatternContentContext.h","PDFHexString.h","PDFImageXObject.h","PDFIndirectObjectReference.h","PDFInteger.h","PDFLiteralString.h","PDFModifiedPage.h","PDFName.h","PDFNull.h","PDFObject.h","PDFObjectCast.h","PDFObjectParser.h","PDFPage.h","PDFPageInput.h","PDFDictionaryIterator.h","PDFArrayIterator.h","PDFPageMergingHelper.h","PDFParser.h","PDFParserTokenizer.h","PDFParsingOptions.h","PDFReal.h","PDFRectangle.h","PDFStream.h","PDFStreamInput.h","PDFSymbol.h","PDFTextString.h","PDFUsedFont.h","PDFWriter.h","PFMFileReader.h","PNGImageHandler.h","PrimitiveObjectsWriter.h","ProcsetResourcesConstants.h","PSBool.h","RefCountObject.h","RefCountPtr.h","ResourcesDictionary.h","SafeBufferMacrosDefs.h","SimpleStringTokenizer.h","Singleton.h","SingleValueContainerIterator.h","StandardEncoding.h","StateReader.h","StateWriter.h","TIFFImageHandler.h","TiffUsageParameters.h","Timer.h","TimersRegistry.h","Trace.h","TrailerInformation.h","TrueTypeANSIFontWriter.h","TrueTypeDescendentFontWriter.h","TrueTypeEmbeddedFontWriter.h","TrueTypePrimitiveWriter.h","Type1Input.h","Type1ToCFFEmbeddedFontWriter.h","Type1ToType2Converter.h","Type2CharStringWriter.h","UnicodeString.h","UppercaseSequance.h","UsedFontsRepository.h","WinAnsiEncoding.h","WrittenFontCFF.h","WrittenFontRepresentation.h","WrittenFontTrueType.h","XCryptionCommon.h","XObjectContentContext.h"]},{"compileFlags":"-g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -ffunction-sections -fdata-sections -O0 -fno-limit-debug-info  -fPIC  ","defines":["FT2_BUILD_LIBRARY=1","HAVE_UNISTD_H=1","PDFHUMMUS_NO_DCT=1","PDFHUMMUS_NO_PNG=1","PDFHUMMUS_NO_TIFF=1"],"includePath":[{"path":"/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/ZLib"},{"path":"/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/FreeType/include"},{"path":"/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/LibAesgm"}],"isGenerated":false,"language":"CXX","sources":["AbstractContentContext.cpp","AbstractWrittenFont.cpp","ANSIFontWriter.cpp","Ascii7Encoding.cpp","ArrayOfInputStreamsStream.cpp","CatalogInformation.cpp","CFFANSIFontWriter.cpp","CFFDescendentFontWriter.cpp","CFFEmbeddedFontWriter.cpp","CFFFileInput.cpp","CFFPrimitiveReader.cpp","CFFPrimitiveWriter.cpp","CharStringType1Interpreter.cpp","CharStringType1Tracer.cpp","CharStringType2Flattener.cpp","CharStringType2Interpreter.cpp","CharStringType2Tracer.cpp","CIDFontWriter.cpp","CMYKRGBColor.cpp","DecryptionHelper.cpp","DescendentFontWriter.cpp","DictionaryContext.cpp","DocumentContext.cpp","EncryptionHelper.cpp","EncryptionOptions.cpp","FontDescriptorWriter.cpp","FreeTypeFaceWrapper.cpp","FreeTypeOpenTypeWrapper.cpp","FreeTypeType1Wrapper.cpp","FreeTypeWrapper.cpp","GraphicState.cpp","GraphicStateStack.cpp","IndirectObjectsReferenceRegistry.cpp","InfoDictionary.cpp","InputAESDecodeStream.cpp","InputAscii85DecodeStream.cpp","InputAsciiHexDecodeStream.cpp","InputBufferedStream.cpp","InputByteArrayStream.cpp","InputCharStringDecodeStream.cpp","InputDCTDecodeStream.cpp","InputFile.cpp","InputFileStream.cpp","InputFlateDecodeStream.cpp","InputLZWDecodeStream.cpp","InputLimitedStream.cpp","InputOffsetStream.cpp","InputRC4XcodeStream.cpp","InputPFBDecodeStream.cpp","InputPredictorPNGOptimumStream.cpp","InputPredictorTIFFSubStream.cpp","InputStreamSkipperStream.cpp","InputStringBufferStream.cpp","InputStringStream.cpp","JPEGImageHandler.cpp","JPEGImageInformation.cpp","JPEGImageParser.cpp","Log.cpp","MD5Generator.cpp","RC4.cpp","ObjectsContext.cpp","OpenTypeFileInput.cpp","OpenTypePrimitiveReader.cpp","OutputAESEncodeStream.cpp","OutputBufferedStream.cpp","OutputFile.cpp","OutputFileStream.cpp","OutputFlateDecodeStream.cpp","OutputFlateEncodeStream.cpp","OutputRC4XcodeStream.cpp","OutputStreamTraits.cpp","OutputStringBufferStream.cpp","PageContentContext.cpp","PageTree.cpp","ParsedPrimitiveHelper.cpp","PDFArray.cpp","PDFBoolean.cpp","PDFCosArray.cpp","PDFCosDict.cpp","PDFDate.cpp","PDFDictionary.cpp","PDFDocEncoding.cpp","PDFDocumentCopyingContext.cpp","PDFDocumentHandler.cpp","PDFFormXObject.cpp","PDFTiledPattern.cpp","TiledPatternContentContext.cpp","PDFHexString.cpp","PDFImageXObject.cpp","PDFIndirectObjectReference.cpp","PDFInteger.cpp","PDFLiteralString.cpp","PDFModifiedPage.cpp","PDFName.cpp","PDFNull.cpp","PDFObject.cpp","PDFObjectParser.cpp","PDFPage.cpp","PDFPageInput.cpp","PDFDictionaryIterator.cpp","PDFArrayIterator.cpp","PDFPageMergingHelper.cpp","PDFParser.cpp","PDFParserTokenizer.cpp","PDFParsingOptions.cpp","PDFReal.cpp","PDFRectangle.cpp","PDFStream.cpp","PDFStreamInput.cpp","PDFSymbol.cpp","PDFTextString.cpp","PDFUsedFont.cpp","PDFWriter.cpp","PFMFileReader.cpp","PNGImageHandler.cpp","PrimitiveObjectsWriter.cpp","PSBool.cpp","RefCountObject.cpp","ResourcesDictionary.cpp","SimpleStringTokenizer.cpp","StandardEncoding.cpp","StateReader.cpp","StateWriter.cpp","TIFFImageHandler.cpp","TiffUsageParameters.cpp","Timer.cpp","TimersRegistry.cpp","Trace.cpp","TrailerInformation.cpp","TrueTypeANSIFontWriter.cpp","TrueTypeDescendentFontWriter.cpp","TrueTypeEmbeddedFontWriter.cpp","TrueTypePrimitiveWriter.cpp","Type1Input.cpp","Type1ToCFFEmbeddedFontWriter.cpp","Type1ToType2Converter.cpp","Type2CharStringWriter.cpp","UnicodeString.cpp","UppercaseSequance.cpp","UsedFontsRepository.cpp","WinAnsiEncoding.cpp","WrittenFontCFF.cpp","WrittenFontTrueType.cpp","XCryptionCommon.cpp","XObjectContentContext.cpp"]}],"fullName":"libPDFWriter.a","linkerLanguage":"CXX","name":"PDFWriter","sourceDirectory":"/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter","sysroot":"/Users/jerrywu/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/sysroot","type":"STATIC_LIBRARY"},{"artifacts":["/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/.cxx/cmake/debug/arm64-v8a/ZLib/libZlib.a"],"buildDirectory":"/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/.cxx/cmake/debug/arm64-v8a/ZLib","fileGroups":[{"isGenerated":false,"sources":["zip.h","unzip.h","ioapi.h","minizip.h","crypt.h","zconf.h","zlib.h","crc32.h","deflate.h","gzguts.h","inffast.h","inffixed.h","inflate.h","inftrees.h","trees.h","zutil.h"]},{"compileFlags":"-g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -ffunction-sections -fdata-sections -O0 -fno-limit-debug-info  -fPIC  ","defines":["HAVE_UNISTD_H=1"],"isGenerated":false,"language":"C","sources":["adler32.c","compress.c","crc32.c","deflate.c","gzclose.c","gzlib.c","gzread.c","gzwrite.c","infback.c","inffast.c","inflate.c","inftrees.c","trees.c","uncompr.c","zutil.c","zip.c","unzip.c","ioapi.c","minizip.c","miniunz.c"]}],"fullName":"libZlib.a","linkerLanguage":"C","name":"Zlib","sourceDirectory":"/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/ZLib","sysroot":"/Users/jerrywu/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/sysroot","type":"STATIC_LIBRARY"}]}]}],"cookie":"","inReplyTo":"codemodel","type":"reply"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+

@@ -1,0 +1,17 @@
+apply plugin: 'java-library'
+
+dependencies {
+//    implementation fileTree(include: ['*.jar'], dir: 'libs')
+//    implementation files('libs/javaLib.jar')
+//    implementation files('libs/bgslib.jar')
+}
+
+sourceCompatibility = "7"
+targetCompatibility = "7"
+
+jar {
+//    name "EncryptJar"
+    manifest {
+        attributes 'Main-Class': "wbq.javalib.EncryptMain"
+    }
+}

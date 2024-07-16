@@ -1,0 +1,2710 @@
+{
+  "stringTable": {
+    "0": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/.cxx/cmake/debug/armeabi-v7a",
+    "1": "--target=armv7-none-linux-androideabi21 --gcc-toolchain=/Users/jerrywu/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/jerrywu/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -DFT2_BUILD_LIBRARY=1 -DHAVE_UNISTD_H=1 -DPDFHUMMUS_NO_DCT=1 -DPDFHUMMUS_NO_PNG=1 -DPDFHUMMUS_NO_TIFF=1 -Dctgfiletrace_lib_EXPORTS -I/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter -I/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/ZLib -I/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/FreeType/include -I/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/LibAesgm -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security -ffunction-sections -fdata-sections -O0 -fno-limit-debug-info -fPIC",
+    "2": "--target=armv7-none-linux-androideabi21 --gcc-toolchain=/Users/jerrywu/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/jerrywu/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -DFT2_BUILD_LIBRARY=1 -I/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/FreeType/include -I/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/FreeType/include/freetype -I/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/FreeType/include/freetype/config -I/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/FreeType/include/src -I/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/FreeType/include/freetype/internal -I/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/FreeType/include/freetype/internal/services -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security -ffunction-sections -fdata-sections -O0 -fno-limit-debug-info -fPIC",
+    "3": "--target=armv7-none-linux-androideabi21 --gcc-toolchain=/Users/jerrywu/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/jerrywu/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security -ffunction-sections -fdata-sections -O0 -fno-limit-debug-info -fPIC",
+    "4": "--target=armv7-none-linux-androideabi21 --gcc-toolchain=/Users/jerrywu/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/jerrywu/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -DHAVE_UNISTD_H=1 -I/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/ZLib -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security -ffunction-sections -fdata-sections -O0 -fno-limit-debug-info -fPIC",
+    "5": "--target=armv7-none-linux-androideabi21 --gcc-toolchain=/Users/jerrywu/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/jerrywu/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -DAVOID_WIN32_FILEIO=1 -DCCITT_SUPPORT=1 -DCHECK_JPEG_YCBCR_SUBSAMPLING=1 -DDEFAULT_EXTRASAMPLE_AS_ALPHA=1 -DFILLODER_LSB2MSB=1 -DHAVE_UNISTD_H=1 -DLOGLUV_SUPPORT=1 -DLZW_SUPPORT=1 -DNEXT_SUPPORT=1 -DPACKBITS_SUPPORT=1 -DPIXARLOG_SUPPORT=1 -DSTRIPCHOP_DEFAULT=TIFF_STRIPCHOP -DSTRIP_SIZE_DEFAULT=8192 -DTHUNDER_SUPPORT=1 -DTIF_PLATFORM_CONSOLE=1 -DZIP_SUPPORT=1 -D_CRT_SECURE_NO_DEPRECATE=1 -I/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/ZLib -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security -ffunction-sections -fdata-sections -O0 -fno-limit-debug-info -fPIC",
+    "6": "--target=armv7-none-linux-androideabi21 --gcc-toolchain=/Users/jerrywu/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/jerrywu/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -DFT2_BUILD_LIBRARY=1 -DHAVE_UNISTD_H=1 -DPDFHUMMUS_NO_DCT=1 -DPDFHUMMUS_NO_PNG=1 -DPDFHUMMUS_NO_TIFF=1 -I/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/ZLib -I/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/FreeType/include -I/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/LibAesgm -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security -ffunction-sections -fdata-sections -O0 -fno-limit-debug-info -fPIC",
+    "7": "--target=armv7-none-linux-androideabi21 --gcc-toolchain=/Users/jerrywu/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/jerrywu/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -DHAVE_UNISTD_H=1 -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security -ffunction-sections -fdata-sections -O0 -fno-limit-debug-info -fPIC",
+    "8": "null"
+  },
+  "buildFiles": [
+    "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/CMakeLists.txt",
+    "/Users/jerrywu/Library/Android/sdk/ndk-bundle/build/cmake/android.toolchain.cmake",
+    "/Users/jerrywu/Library/Android/sdk/ndk-bundle/build/cmake/platforms.cmake",
+    "/Users/jerrywu/Library/Android/sdk/ndk-bundle/build/cmake/compiler_id.cmake",
+    "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/FreeType/CMakeLists.txt",
+    "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/LibAesgm/CMakeLists.txt",
+    "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/LibJpeg/CMakeLists.txt",
+    "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/LibPng/CMakeLists.txt",
+    "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/LibTiff/CMakeLists.txt",
+    "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/CMakeLists.txt",
+    "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/ZLib/CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "/Users/jerrywu/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/.cxx/cmake/debug/armeabi-v7a\" clean"
+  ],
+  "buildTargetsCommand": "/Users/jerrywu/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja  -C \"/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/.cxx/cmake/debug/armeabi-v7a\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "LibJpeg-Debug-armeabi-v7a": {
+      "buildCommand": "/Users/jerrywu/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/.cxx/cmake/debug/armeabi-v7a\" LibJpeg",
+      "buildType": "debug",
+      "toolchain": "4068179936",
+      "abi": "armeabi-v7a",
+      "artifactName": "LibJpeg",
+      "files": [
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/LibJpeg/jaricom.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/LibJpeg/jcapimin.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/LibJpeg/jcapistd.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/LibJpeg/jcarith.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/LibJpeg/jccoefct.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/LibJpeg/jccolor.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/LibJpeg/jcdctmgr.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/LibJpeg/jchuff.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/LibJpeg/jcinit.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/LibJpeg/jcmainct.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/LibJpeg/jcmarker.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/LibJpeg/jcmaster.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/LibJpeg/jcomapi.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/LibJpeg/jcparam.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/LibJpeg/jcprepct.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/LibJpeg/jcsample.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/LibJpeg/jctrans.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/LibJpeg/jdapimin.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/LibJpeg/jdapistd.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/LibJpeg/jdarith.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/LibJpeg/jdatadst.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/LibJpeg/jdatasrc.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/LibJpeg/jdcoefct.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/LibJpeg/jdcolor.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/LibJpeg/jddctmgr.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/LibJpeg/jdhuff.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/LibJpeg/jdinput.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/LibJpeg/jdmainct.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/LibJpeg/jdmarker.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/LibJpeg/jdmaster.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/LibJpeg/jdmerge.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/LibJpeg/jdpostct.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/LibJpeg/jdsample.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/LibJpeg/jdtrans.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/LibJpeg/jerror.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/LibJpeg/jfdctflt.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/LibJpeg/jfdctfst.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/LibJpeg/jfdctint.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/LibJpeg/jidctflt.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/LibJpeg/jidctfst.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/LibJpeg/jidctint.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/LibJpeg/jmemmgr.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/LibJpeg/jmemnobs.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/LibJpeg/jquant1.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/LibJpeg/jquant2.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/LibJpeg/jutils.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": [
+        {
+          "header": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/LibJpeg/jconfig.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/LibJpeg/jdct.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/LibJpeg/jerror.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/LibJpeg/jinclude.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/LibJpeg/jmemsys.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/LibJpeg/jmorecfg.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/LibJpeg/jpegint.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/LibJpeg/jpeglib.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/LibJpeg/jversion.h",
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "output": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/.cxx/cmake/debug/armeabi-v7a/LibJpeg/libLibJpeg.a"
+    },
+    "LibPng-Debug-armeabi-v7a": {
+      "buildCommand": "/Users/jerrywu/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/.cxx/cmake/debug/armeabi-v7a\" LibPng",
+      "buildType": "debug",
+      "toolchain": "4068179936",
+      "abi": "armeabi-v7a",
+      "artifactName": "LibPng",
+      "files": [
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/LibPng/png.c",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/LibPng/pngerror.c",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/LibPng/pngget.c",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/LibPng/pngmem.c",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/LibPng/pngpread.c",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/LibPng/pngread.c",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/LibPng/pngrio.c",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/LibPng/pngrtran.c",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/LibPng/pngrutil.c",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/LibPng/pngset.c",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/LibPng/pngtrans.c",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/LibPng/pngwio.c",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/LibPng/pngwrite.c",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/LibPng/pngwtran.c",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/LibPng/pngwutil.c",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": [
+        {
+          "header": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/LibPng/png.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/LibPng/pngconf.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/LibPng/pngdebug.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/LibPng/pnginfo.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/LibPng/pnglibconf.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/LibPng/pngpriv.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/LibPng/pngstruct.h",
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "output": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/.cxx/cmake/debug/armeabi-v7a/LibPng/libLibPng.a"
+    },
+    "LibAesgm-Debug-armeabi-v7a": {
+      "buildCommand": "/Users/jerrywu/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/.cxx/cmake/debug/armeabi-v7a\" LibAesgm",
+      "buildType": "debug",
+      "toolchain": "4068179936",
+      "abi": "armeabi-v7a",
+      "artifactName": "LibAesgm",
+      "files": [
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/LibAesgm/aescrypt.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/LibAesgm/aeskey.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/LibAesgm/aes_modes.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/LibAesgm/aes_ni.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/LibAesgm/aestab.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": [
+        {
+          "header": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/LibAesgm/aescpp.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/LibAesgm/aes.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/LibAesgm/aes_ni.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/LibAesgm/aesopt.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/LibAesgm/aestab.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/LibAesgm/aes_via_ace.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/LibAesgm/brg_endian.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/LibAesgm/brg_types.h",
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "output": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/.cxx/cmake/debug/armeabi-v7a/LibAesgm/libLibAesgm.a"
+    },
+    "Zlib-Debug-armeabi-v7a": {
+      "buildCommand": "/Users/jerrywu/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/.cxx/cmake/debug/armeabi-v7a\" Zlib",
+      "buildType": "debug",
+      "toolchain": "4068179936",
+      "abi": "armeabi-v7a",
+      "artifactName": "Zlib",
+      "files": [
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/ZLib/adler32.c",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/ZLib/compress.c",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/ZLib/crc32.c",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/ZLib/deflate.c",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/ZLib/gzclose.c",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/ZLib/gzlib.c",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/ZLib/gzread.c",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/ZLib/gzwrite.c",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/ZLib/infback.c",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/ZLib/inffast.c",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/ZLib/inflate.c",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/ZLib/inftrees.c",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/ZLib/trees.c",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/ZLib/uncompr.c",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/ZLib/zutil.c",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/ZLib/zip.c",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/ZLib/unzip.c",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/ZLib/ioapi.c",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/ZLib/minizip.c",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/ZLib/miniunz.c",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": [
+        {
+          "header": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/ZLib/zip.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/ZLib/unzip.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/ZLib/ioapi.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/ZLib/minizip.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/ZLib/crypt.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/ZLib/zconf.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/ZLib/zlib.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/ZLib/crc32.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/ZLib/deflate.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/ZLib/gzguts.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/ZLib/inffast.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/ZLib/inffixed.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/ZLib/inflate.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/ZLib/inftrees.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/ZLib/trees.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/ZLib/zutil.h",
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "output": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/.cxx/cmake/debug/armeabi-v7a/ZLib/libZlib.a"
+    },
+    "LibTiff-Debug-armeabi-v7a": {
+      "buildCommand": "/Users/jerrywu/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/.cxx/cmake/debug/armeabi-v7a\" LibTiff",
+      "buildType": "debug",
+      "toolchain": "4068179936",
+      "abi": "armeabi-v7a",
+      "artifactName": "LibTiff",
+      "files": [
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/LibTiff/tif_stream.cxx",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/LibTiff/tiffio.hxx",
+          "flagsOrdinal": 8,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/LibTiff/tif_aux.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/LibTiff/tif_close.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/LibTiff/tif_codec.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/LibTiff/tif_color.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/LibTiff/tif_compress.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/LibTiff/tif_dir.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/LibTiff/tif_dirinfo.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/LibTiff/tif_dirread.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/LibTiff/tif_dirwrite.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/LibTiff/tif_dumpmode.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/LibTiff/tif_error.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/LibTiff/tif_extension.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/LibTiff/tif_fax3.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/LibTiff/tif_fax3sm.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/LibTiff/tif_flush.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/LibTiff/tif_getimage.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/LibTiff/tif_jbig.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/LibTiff/tif_jpeg.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/LibTiff/tif_luv.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/LibTiff/tif_lzw.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/LibTiff/tif_next.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/LibTiff/tif_ojpeg.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/LibTiff/tif_open.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/LibTiff/tif_packbits.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/LibTiff/tif_pixarlog.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/LibTiff/tif_predict.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/LibTiff/tif_print.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/LibTiff/tif_read.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/LibTiff/tif_strip.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/LibTiff/tif_swab.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/LibTiff/tif_thunder.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/LibTiff/tif_tile.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/LibTiff/tif_unix.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/LibTiff/tif_version.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/LibTiff/tif_warning.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/LibTiff/tif_write.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/LibTiff/tif_zip.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": [
+        {
+          "header": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/LibTiff/t4.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/LibTiff/tiff.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/LibTiff/tiffconf.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/LibTiff/tiffio.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/LibTiff/tiffiop.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/LibTiff/tiffvers.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/LibTiff/tif_config.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/LibTiff/tif_dir.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/LibTiff/tif_fax3.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/LibTiff/tif_predict.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/LibTiff/uvcode.h",
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "output": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/.cxx/cmake/debug/armeabi-v7a/LibTiff/libLibTiff.a"
+    },
+    "FreeType-Debug-armeabi-v7a": {
+      "buildCommand": "/Users/jerrywu/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/.cxx/cmake/debug/armeabi-v7a\" FreeType",
+      "buildType": "debug",
+      "toolchain": "4068179936",
+      "abi": "armeabi-v7a",
+      "artifactName": "FreeType",
+      "files": [
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/FreeType/src/base/ftbbox.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/FreeType/src/base/ftgxval.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/FreeType/src/base/ftlcdfil.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/FreeType/src/base/ftmm.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/FreeType/src/base/ftotval.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/FreeType/src/base/ftpatent.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/FreeType/src/base/ftpfr.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/FreeType/src/base/ftsynth.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/FreeType/src/base/fttype1.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/FreeType/src/base/ftwinfnt.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/FreeType/src/base/ftxf86.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/FreeType/src/pcf/pcf.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/FreeType/src/pfr/pfr.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/FreeType/src/psaux/psaux.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/FreeType/src/pshinter/pshinter.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/FreeType/src/psnames/psmodule.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/FreeType/src/raster/raster.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/FreeType/src/sfnt/sfnt.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/FreeType/src/truetype/truetype.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/FreeType/src/type1/type1.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/FreeType/src/type42/type42.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/FreeType/src/cid/type1cid.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/FreeType/src/winfonts/winfnt.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/FreeType/src/autofit/autofit.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/FreeType/src/bdf/bdf.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/FreeType/src/cff/cff.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/FreeType/src/base/ftbase.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/FreeType/src/base/ftbitmap.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/FreeType/src/cache/ftcache.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/FreeType/src/base/ftcid.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/FreeType/src/base/ftdebug.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/FreeType/src/base/ftfstype.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/FreeType/src/base/ftgasp.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/FreeType/src/base/ftglyph.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/FreeType/src/gzip/ftgzip.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/FreeType/src/base/ftinit.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/FreeType/src/lzw/ftlzw.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/FreeType/src/base/ftstroke.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/FreeType/src/base/ftsystem.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/FreeType/src/smooth/smooth.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": [
+        {
+          "header": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/FreeType/include/freetype/config/ftconfig.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/FreeType/include/freetype/config/ftheader.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/FreeType/include/freetype/config/ftmodule.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/FreeType/include/freetype/config/ftoption.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/FreeType/include/freetype/config/ftstdlib.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/FreeType/include/ft2build.h",
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "output": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/.cxx/cmake/debug/armeabi-v7a/FreeType/libFreeType.a"
+    },
+    "ctgfiletrace-lib-Debug-armeabi-v7a": {
+      "buildCommand": "/Users/jerrywu/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/.cxx/cmake/debug/armeabi-v7a\" ctgfiletrace-lib",
+      "buildType": "debug",
+      "toolchain": "4068179936",
+      "abi": "armeabi-v7a",
+      "artifactName": "ctgfiletrace-lib",
+      "files": [
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/filetrace-ctg.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/fileTrace.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": [
+        {
+          "header": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/fileTrace.h",
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "output": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/build/intermediates/cmake/debug/obj/armeabi-v7a/libctgfiletrace-lib.so",
+      "runtimeFiles": []
+    },
+    "PDFWriter-Debug-armeabi-v7a": {
+      "buildCommand": "/Users/jerrywu/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/.cxx/cmake/debug/armeabi-v7a\" PDFWriter",
+      "buildType": "debug",
+      "toolchain": "4068179936",
+      "abi": "armeabi-v7a",
+      "artifactName": "PDFWriter",
+      "files": [
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/AbstractContentContext.cpp",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/AbstractWrittenFont.cpp",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/ANSIFontWriter.cpp",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/Ascii7Encoding.cpp",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/ArrayOfInputStreamsStream.cpp",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/CatalogInformation.cpp",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/CFFANSIFontWriter.cpp",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/CFFDescendentFontWriter.cpp",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/CFFEmbeddedFontWriter.cpp",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/CFFFileInput.cpp",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/CFFPrimitiveReader.cpp",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/CFFPrimitiveWriter.cpp",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/CharStringType1Interpreter.cpp",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/CharStringType1Tracer.cpp",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/CharStringType2Flattener.cpp",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/CharStringType2Interpreter.cpp",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/CharStringType2Tracer.cpp",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/CIDFontWriter.cpp",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/CMYKRGBColor.cpp",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/DecryptionHelper.cpp",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/DescendentFontWriter.cpp",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/DictionaryContext.cpp",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/DocumentContext.cpp",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/EncryptionHelper.cpp",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/EncryptionOptions.cpp",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/FontDescriptorWriter.cpp",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/FreeTypeFaceWrapper.cpp",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/FreeTypeOpenTypeWrapper.cpp",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/FreeTypeType1Wrapper.cpp",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/FreeTypeWrapper.cpp",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/GraphicState.cpp",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/GraphicStateStack.cpp",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/IndirectObjectsReferenceRegistry.cpp",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/InfoDictionary.cpp",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/InputAESDecodeStream.cpp",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/InputAscii85DecodeStream.cpp",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/InputAsciiHexDecodeStream.cpp",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/InputBufferedStream.cpp",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/InputByteArrayStream.cpp",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/InputCharStringDecodeStream.cpp",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/InputDCTDecodeStream.cpp",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/InputFile.cpp",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/InputFileStream.cpp",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/InputFlateDecodeStream.cpp",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/InputLZWDecodeStream.cpp",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/InputLimitedStream.cpp",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/InputOffsetStream.cpp",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/InputRC4XcodeStream.cpp",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/InputPFBDecodeStream.cpp",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/InputPredictorPNGOptimumStream.cpp",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/InputPredictorTIFFSubStream.cpp",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/InputStreamSkipperStream.cpp",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/InputStringBufferStream.cpp",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/InputStringStream.cpp",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/JPEGImageHandler.cpp",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/JPEGImageInformation.cpp",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/JPEGImageParser.cpp",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/Log.cpp",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/MD5Generator.cpp",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/RC4.cpp",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/ObjectsContext.cpp",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/OpenTypeFileInput.cpp",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/OpenTypePrimitiveReader.cpp",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/OutputAESEncodeStream.cpp",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/OutputBufferedStream.cpp",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/OutputFile.cpp",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/OutputFileStream.cpp",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/OutputFlateDecodeStream.cpp",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/OutputFlateEncodeStream.cpp",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/OutputRC4XcodeStream.cpp",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/OutputStreamTraits.cpp",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/OutputStringBufferStream.cpp",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/PageContentContext.cpp",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/PageTree.cpp",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/ParsedPrimitiveHelper.cpp",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/PDFArray.cpp",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/PDFBoolean.cpp",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/PDFCosArray.cpp",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/PDFCosDict.cpp",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/PDFDate.cpp",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/PDFDictionary.cpp",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/PDFDocEncoding.cpp",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/PDFDocumentCopyingContext.cpp",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/PDFDocumentHandler.cpp",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/PDFFormXObject.cpp",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/PDFTiledPattern.cpp",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/TiledPatternContentContext.cpp",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/PDFHexString.cpp",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/PDFImageXObject.cpp",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/PDFIndirectObjectReference.cpp",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/PDFInteger.cpp",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/PDFLiteralString.cpp",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/PDFModifiedPage.cpp",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/PDFName.cpp",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/PDFNull.cpp",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/PDFObject.cpp",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/PDFObjectParser.cpp",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/PDFPage.cpp",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/PDFPageInput.cpp",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/PDFDictionaryIterator.cpp",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/PDFArrayIterator.cpp",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/PDFPageMergingHelper.cpp",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/PDFParser.cpp",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/PDFParserTokenizer.cpp",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/PDFParsingOptions.cpp",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/PDFReal.cpp",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/PDFRectangle.cpp",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/PDFStream.cpp",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/PDFStreamInput.cpp",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/PDFSymbol.cpp",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/PDFTextString.cpp",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/PDFUsedFont.cpp",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/PDFWriter.cpp",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/PFMFileReader.cpp",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/PNGImageHandler.cpp",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/PrimitiveObjectsWriter.cpp",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/PSBool.cpp",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/RefCountObject.cpp",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/ResourcesDictionary.cpp",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/SimpleStringTokenizer.cpp",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/StandardEncoding.cpp",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/StateReader.cpp",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/StateWriter.cpp",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/TIFFImageHandler.cpp",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/TiffUsageParameters.cpp",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/Timer.cpp",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/TimersRegistry.cpp",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/Trace.cpp",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/TrailerInformation.cpp",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/TrueTypeANSIFontWriter.cpp",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/TrueTypeDescendentFontWriter.cpp",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/TrueTypeEmbeddedFontWriter.cpp",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/TrueTypePrimitiveWriter.cpp",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/Type1Input.cpp",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/Type1ToCFFEmbeddedFontWriter.cpp",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/Type1ToType2Converter.cpp",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/Type2CharStringWriter.cpp",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/UnicodeString.cpp",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/UppercaseSequance.cpp",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/UsedFontsRepository.cpp",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/WinAnsiEncoding.cpp",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/WrittenFontCFF.cpp",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/WrittenFontTrueType.cpp",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/XCryptionCommon.cpp",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/XObjectContentContext.cpp",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": [
+        {
+          "header": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/AbstractContentContext.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/AbstractWrittenFont.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/AdapterIByteReaderWithPositionToIReadPositionProvider.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/ANSIFontWriter.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/Ascii7Encoding.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/ArrayOfInputStreamsStream.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/BetweenIncluding.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/BoxingBase.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/CatalogInformation.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/CFFANSIFontWriter.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/CFFDescendentFontWriter.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/CFFEmbeddedFontWriter.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/CFFFileInput.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/CFFPrimitiveReader.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/CFFPrimitiveWriter.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/CharStringDefinitions.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/CharStringType1Interpreter.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/CharStringType1Tracer.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/CharStringType2Flattener.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/CharStringType2Interpreter.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/CharStringType2Tracer.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/CIDFontWriter.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/CMYKRGBColor.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/ContainerIterator.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/DecryptionHelper.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/Deletable.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/DescendentFontWriter.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/DictionaryContext.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/DictOperand.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/DocumentContext.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/DocumentContextExtenderAdapter.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/EFontStretch.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/EHummusImageType.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/EncryptionHelper.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/EncryptionOptions.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/EPDFVersion.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/EStatusCode.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/ETokenSeparator.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/FontDescriptorWriter.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/FreeTypeFaceWrapper.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/FreeTypeOpenTypeWrapper.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/FreeTypeType1Wrapper.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/FreeTypeWrapper.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/FSType.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/GlyphUnicodeMapping.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/GraphicState.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/GraphicStateStack.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/IANSIFontWriterHelper.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/IByteReader.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/IByteReaderWithPosition.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/IByteWriter.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/IByteWriterWithPosition.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/IContentContextListener.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/IDeletable.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/IDescendentFontWriter.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/IDocumentContextExtender.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/IFontDescriptorHelper.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/IFormEndWritingTask.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/ITiledPatternEndWritingTask.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/IFreeTypeFaceExtender.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/IndirectObjectsReferenceRegistry.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/InfoDictionary.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/InputAESDecodeStream.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/InputAscii85DecodeStream.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/InputAsciiHexDecodeStream.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/InputBufferedStream.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/InputByteArrayStream.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/InputCharStringDecodeStream.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/InputDCTDecodeStream.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/InputFile.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/InputFileStream.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/InputFlateDecodeStream.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/InputLZWDecodeStream.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/InputLimitedStream.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/InputOffsetStream.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/InputRC4XcodeStream.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/InputPFBDecodeStream.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/InputPredictorPNGOptimumStream.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/InputPredictorTIFFSubStream.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/InputStreamSkipperStream.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/InputStringBufferStream.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/InputStringStream.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/IOBasicTypes.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/IObjectsContextExtender.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/IPageEndWritingTask.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/IPDFParserExtender.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/IReadPositionProvider.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/IResourceWritingTask.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/IType1InterpreterImplementation.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/IType2InterpreterImplementation.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/IWrittenFont.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/JPEGImageHandler.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/JPEGImageInformation.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/JPEGImageParser.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/Log.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/MapIterator.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/MD5Generator.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/RC4.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/MyStringBuf.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/ObjectsBasicTypes.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/ObjectsContext.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/ObjectsContextExtenderAdapter.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/OpenTypeFileInput.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/OpenTypePrimitiveReader.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/OutputAESEncodeStream.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/OutputBufferedStream.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/OutputFile.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/OutputFileStream.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/OutputFlateDecodeStream.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/OutputFlateEncodeStream.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/OutputRC4XcodeStream.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/OutputStreamTraits.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/OutputStringBufferStream.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/PageContentContext.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/PageTree.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/ParsedPrimitiveHelper.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/PDFArray.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/PDFBoolean.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/PDFCosArray.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/PDFCosDict.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/PDFDate.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/PDFDictionary.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/PDFDocEncoding.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/PDFDocumentCopyingContext.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/PDFDocumentHandler.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/PDFEmbedParameterTypes.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/PDFFormXObject.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/PDFTiledPattern.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/TiledPatternContentContext.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/PDFHexString.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/PDFImageXObject.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/PDFIndirectObjectReference.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/PDFInteger.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/PDFLiteralString.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/PDFModifiedPage.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/PDFName.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/PDFNull.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/PDFObject.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/PDFObjectCast.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/PDFObjectParser.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/PDFPage.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/PDFPageInput.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/PDFDictionaryIterator.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/PDFArrayIterator.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/PDFPageMergingHelper.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/PDFParser.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/PDFParserTokenizer.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/PDFParsingOptions.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/PDFReal.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/PDFRectangle.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/PDFStream.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/PDFStreamInput.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/PDFSymbol.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/PDFTextString.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/PDFUsedFont.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/PDFWriter.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/PFMFileReader.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/PNGImageHandler.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/PrimitiveObjectsWriter.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/ProcsetResourcesConstants.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/PSBool.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/RefCountObject.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/RefCountPtr.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/ResourcesDictionary.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/SafeBufferMacrosDefs.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/SimpleStringTokenizer.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/Singleton.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/SingleValueContainerIterator.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/StandardEncoding.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/StateReader.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/StateWriter.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/TIFFImageHandler.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/TiffUsageParameters.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/Timer.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/TimersRegistry.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/Trace.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/TrailerInformation.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/TrueTypeANSIFontWriter.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/TrueTypeDescendentFontWriter.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/TrueTypeEmbeddedFontWriter.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/TrueTypePrimitiveWriter.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/Type1Input.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/Type1ToCFFEmbeddedFontWriter.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/Type1ToType2Converter.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/Type2CharStringWriter.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/UnicodeString.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/UppercaseSequance.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/UsedFontsRepository.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/WinAnsiEncoding.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/WrittenFontCFF.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/WrittenFontRepresentation.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/WrittenFontTrueType.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/XCryptionCommon.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/XObjectContentContext.h",
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "output": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/.cxx/cmake/debug/armeabi-v7a/PDFWriter/libPDFWriter.a"
+    }
+  },
+  "toolchains": {
+    "4068179936": {
+      "cCompilerExecutable": "/Users/jerrywu/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang",
+      "cppCompilerExecutable": "/Users/jerrywu/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++"
+    }
+  },
+  "cFileExtensions": [
+    "c"
+  ],
+  "cppFileExtensions": [
+    "cxx",
+    "cpp"
+  ]
+}

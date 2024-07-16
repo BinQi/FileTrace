@@ -1,0 +1,77 @@
+{
+  "buildFiles": [
+    "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/CMakeLists.txt",
+    "/Users/jerrywu/Library/Android/sdk/ndk-bundle/build/cmake/android.toolchain.cmake",
+    "/Users/jerrywu/Library/Android/sdk/ndk-bundle/build/cmake/platforms.cmake",
+    "/Users/jerrywu/Library/Android/sdk/ndk-bundle/build/cmake/compiler_id.cmake",
+    "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/FreeType/CMakeLists.txt",
+    "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/LibAesgm/CMakeLists.txt",
+    "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/LibJpeg/CMakeLists.txt",
+    "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/LibPng/CMakeLists.txt",
+    "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/LibTiff/CMakeLists.txt",
+    "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/CMakeLists.txt",
+    "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/ZLib/CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "/Users/jerrywu/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/.cxx/cmake/debug/armeabi-v7a\" clean"
+  ],
+  "buildTargetsCommand": "/Users/jerrywu/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja  -C \"/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/.cxx/cmake/debug/armeabi-v7a\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "LibJpeg-Debug-armeabi-v7a": {
+      "artifactName": "LibJpeg",
+      "buildCommand": "/Users/jerrywu/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/.cxx/cmake/debug/armeabi-v7a\" LibJpeg",
+      "abi": "armeabi-v7a",
+      "output": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/.cxx/cmake/debug/armeabi-v7a/LibJpeg/libLibJpeg.a",
+      "runtimeFiles": []
+    },
+    "LibPng-Debug-armeabi-v7a": {
+      "artifactName": "LibPng",
+      "buildCommand": "/Users/jerrywu/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/.cxx/cmake/debug/armeabi-v7a\" LibPng",
+      "abi": "armeabi-v7a",
+      "output": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/.cxx/cmake/debug/armeabi-v7a/LibPng/libLibPng.a",
+      "runtimeFiles": []
+    },
+    "LibAesgm-Debug-armeabi-v7a": {
+      "artifactName": "LibAesgm",
+      "buildCommand": "/Users/jerrywu/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/.cxx/cmake/debug/armeabi-v7a\" LibAesgm",
+      "abi": "armeabi-v7a",
+      "output": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/.cxx/cmake/debug/armeabi-v7a/LibAesgm/libLibAesgm.a",
+      "runtimeFiles": []
+    },
+    "Zlib-Debug-armeabi-v7a": {
+      "artifactName": "Zlib",
+      "buildCommand": "/Users/jerrywu/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/.cxx/cmake/debug/armeabi-v7a\" Zlib",
+      "abi": "armeabi-v7a",
+      "output": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/.cxx/cmake/debug/armeabi-v7a/ZLib/libZlib.a",
+      "runtimeFiles": []
+    },
+    "LibTiff-Debug-armeabi-v7a": {
+      "artifactName": "LibTiff",
+      "buildCommand": "/Users/jerrywu/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/.cxx/cmake/debug/armeabi-v7a\" LibTiff",
+      "abi": "armeabi-v7a",
+      "output": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/.cxx/cmake/debug/armeabi-v7a/LibTiff/libLibTiff.a",
+      "runtimeFiles": []
+    },
+    "FreeType-Debug-armeabi-v7a": {
+      "artifactName": "FreeType",
+      "buildCommand": "/Users/jerrywu/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/.cxx/cmake/debug/armeabi-v7a\" FreeType",
+      "abi": "armeabi-v7a",
+      "output": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/.cxx/cmake/debug/armeabi-v7a/FreeType/libFreeType.a",
+      "runtimeFiles": []
+    },
+    "ctgfiletrace-lib-Debug-armeabi-v7a": {
+      "artifactName": "ctgfiletrace-lib",
+      "buildCommand": "/Users/jerrywu/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/.cxx/cmake/debug/armeabi-v7a\" ctgfiletrace-lib",
+      "abi": "armeabi-v7a",
+      "output": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/build/intermediates/cmake/debug/obj/armeabi-v7a/libctgfiletrace-lib.so",
+      "runtimeFiles": []
+    },
+    "PDFWriter-Debug-armeabi-v7a": {
+      "artifactName": "PDFWriter",
+      "buildCommand": "/Users/jerrywu/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/.cxx/cmake/debug/armeabi-v7a\" PDFWriter",
+      "abi": "armeabi-v7a",
+      "output": "/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/.cxx/cmake/debug/armeabi-v7a/PDFWriter/libPDFWriter.a",
+      "runtimeFiles": []
+    }
+  }
+}

@@ -1,0 +1,253 @@
+ninja: Entering directory `/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/.cxx/cmake/debug/arm64-v8a'
+[1/217] Building C object FreeType/CMakeFiles/FreeType.dir/src/base/ftlcdfil.c.o
+[2/217] Building C object FreeType/CMakeFiles/FreeType.dir/src/base/ftotval.c.o
+[3/217] Building C object FreeType/CMakeFiles/FreeType.dir/src/base/ftpfr.c.o
+[4/217] Building C object FreeType/CMakeFiles/FreeType.dir/src/base/ftgxval.c.o
+[5/217] Building C object FreeType/CMakeFiles/FreeType.dir/src/base/ftsynth.c.o
+[6/217] Building C object FreeType/CMakeFiles/FreeType.dir/src/base/ftmm.c.o
+[7/217] Building C object FreeType/CMakeFiles/FreeType.dir/src/base/ftbbox.c.o
+[8/217] Building C object FreeType/CMakeFiles/FreeType.dir/src/base/ftpatent.c.o
+[9/217] Building C object FreeType/CMakeFiles/FreeType.dir/src/base/ftxf86.c.o
+[10/217] Building C object FreeType/CMakeFiles/FreeType.dir/src/base/fttype1.c.o
+[11/217] Building C object FreeType/CMakeFiles/FreeType.dir/src/base/ftwinfnt.c.o
+[12/217] Building C object FreeType/CMakeFiles/FreeType.dir/src/pcf/pcf.c.o
+[13/217] Building C object FreeType/CMakeFiles/FreeType.dir/src/raster/raster.c.o
+[14/217] Building C object FreeType/CMakeFiles/FreeType.dir/src/pfr/pfr.c.o
+[15/217] Building C object FreeType/CMakeFiles/FreeType.dir/src/pshinter/pshinter.c.o
+[16/217] Building C object FreeType/CMakeFiles/FreeType.dir/src/psnames/psmodule.c.o
+[17/217] Building C object FreeType/CMakeFiles/FreeType.dir/src/psaux/psaux.c.o
+[18/217] Building C object FreeType/CMakeFiles/FreeType.dir/src/type42/type42.c.o
+[19/217] Building C object FreeType/CMakeFiles/FreeType.dir/src/winfonts/winfnt.c.o
+[20/217] Building C object FreeType/CMakeFiles/FreeType.dir/src/type1/type1.c.o
+[21/217] Building C object FreeType/CMakeFiles/FreeType.dir/src/cid/type1cid.c.o
+[22/217] Building C object FreeType/CMakeFiles/FreeType.dir/src/base/ftbitmap.c.o
+[23/217] Building C object FreeType/CMakeFiles/FreeType.dir/src/base/ftcid.c.o
+[24/217] Building C object FreeType/CMakeFiles/FreeType.dir/src/bdf/bdf.c.o
+[25/217] Building C object FreeType/CMakeFiles/FreeType.dir/src/sfnt/sfnt.c.o
+[26/217] Building C object FreeType/CMakeFiles/FreeType.dir/src/base/ftdebug.c.o
+[27/217] Building C object FreeType/CMakeFiles/FreeType.dir/src/base/ftfstype.c.o
+[28/217] Building C object FreeType/CMakeFiles/FreeType.dir/src/base/ftgasp.c.o
+[29/217] Building C object FreeType/CMakeFiles/FreeType.dir/src/base/ftglyph.c.o
+[30/217] Building C object FreeType/CMakeFiles/FreeType.dir/src/base/ftinit.c.o
+[31/217] Building C object FreeType/CMakeFiles/FreeType.dir/src/autofit/autofit.c.o
+[32/217] Building C object FreeType/CMakeFiles/FreeType.dir/src/cache/ftcache.c.o
+[33/217] Building C object FreeType/CMakeFiles/FreeType.dir/src/lzw/ftlzw.c.o
+[34/217] Building C object FreeType/CMakeFiles/FreeType.dir/src/base/ftsystem.c.o
+[35/217] Building C object FreeType/CMakeFiles/FreeType.dir/src/gzip/ftgzip.c.o
+[36/217] Building C object FreeType/CMakeFiles/FreeType.dir/src/cff/cff.c.o
+In file included from /Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/FreeType/src/cff/cff.c:25:
+/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/FreeType/src/cff/cffload.c:1316:38: warning: shifting a negative signed value is undefined [-Wshift-negative-value]
+    top->underline_position  = -100L << 16;
+                               ~~~~~ ^
+1 warning generated.
+[37/217] Building C object FreeType/CMakeFiles/FreeType.dir/src/truetype/truetype.c.o
+[38/217] Building C object FreeType/CMakeFiles/FreeType.dir/src/smooth/smooth.c.o
+[39/217] Building C object FreeType/CMakeFiles/FreeType.dir/src/base/ftstroke.c.o
+[40/217] Building C object LibAesgm/CMakeFiles/LibAesgm.dir/aes_ni.c.o
+[41/217] Building C object LibAesgm/CMakeFiles/LibAesgm.dir/aes_modes.c.o
+[42/217] Building C object LibAesgm/CMakeFiles/LibAesgm.dir/aeskey.c.o
+[43/217] Building C object LibAesgm/CMakeFiles/LibAesgm.dir/aescrypt.c.o
+[44/217] Building C object FreeType/CMakeFiles/FreeType.dir/src/base/ftbase.c.o
+[45/217] Linking C static library FreeType/libFreeType.a
+[46/217] Building C object LibAesgm/CMakeFiles/LibAesgm.dir/aestab.c.o
+[47/217] Building CXX object PDFWriter/CMakeFiles/PDFWriter.dir/CatalogInformation.cpp.o
+[48/217] Linking C static library LibAesgm/libLibAesgm.a
+[49/217] Building CXX object PDFWriter/CMakeFiles/PDFWriter.dir/Ascii7Encoding.cpp.o
+[50/217] Building CXX object CMakeFiles/ctgfiletrace-lib.dir/fileTrace.cpp.o
+[51/217] Building CXX object CMakeFiles/ctgfiletrace-lib.dir/filetrace-ctg.cpp.o
+[52/217] Building CXX object PDFWriter/CMakeFiles/PDFWriter.dir/ArrayOfInputStreamsStream.cpp.o
+[53/217] Building CXX object PDFWriter/CMakeFiles/PDFWriter.dir/CFFPrimitiveReader.cpp.o
+[54/217] Building CXX object PDFWriter/CMakeFiles/PDFWriter.dir/CFFPrimitiveWriter.cpp.o
+[55/217] Building CXX object PDFWriter/CMakeFiles/PDFWriter.dir/ANSIFontWriter.cpp.o
+[56/217] Building CXX object PDFWriter/CMakeFiles/PDFWriter.dir/AbstractWrittenFont.cpp.o
+[57/217] Building CXX object PDFWriter/CMakeFiles/PDFWriter.dir/CharStringType1Interpreter.cpp.o
+[58/217] Building CXX object PDFWriter/CMakeFiles/PDFWriter.dir/CFFANSIFontWriter.cpp.o
+[59/217] Building CXX object PDFWriter/CMakeFiles/PDFWriter.dir/CIDFontWriter.cpp.o
+[60/217] Building CXX object PDFWriter/CMakeFiles/PDFWriter.dir/CFFDescendentFontWriter.cpp.o
+[61/217] Building CXX object PDFWriter/CMakeFiles/PDFWriter.dir/CMYKRGBColor.cpp.o
+[62/217] Building CXX object PDFWriter/CMakeFiles/PDFWriter.dir/CharStringType1Tracer.cpp.o
+[63/217] Building CXX object PDFWriter/CMakeFiles/PDFWriter.dir/CharStringType2Interpreter.cpp.o
+[64/217] Building CXX object PDFWriter/CMakeFiles/PDFWriter.dir/AbstractContentContext.cpp.o
+[65/217] Building CXX object PDFWriter/CMakeFiles/PDFWriter.dir/CharStringType2Flattener.cpp.o
+[66/217] Building CXX object PDFWriter/CMakeFiles/PDFWriter.dir/CFFFileInput.cpp.o
+[67/217] Building CXX object PDFWriter/CMakeFiles/PDFWriter.dir/GraphicState.cpp.o
+[68/217] Building CXX object PDFWriter/CMakeFiles/PDFWriter.dir/EncryptionOptions.cpp.o
+[69/217] Building CXX object PDFWriter/CMakeFiles/PDFWriter.dir/DictionaryContext.cpp.o
+[70/217] Building CXX object PDFWriter/CMakeFiles/PDFWriter.dir/CFFEmbeddedFontWriter.cpp.o
+[71/217] Building CXX object PDFWriter/CMakeFiles/PDFWriter.dir/CharStringType2Tracer.cpp.o
+[72/217] Building CXX object PDFWriter/CMakeFiles/PDFWriter.dir/DescendentFontWriter.cpp.o
+[73/217] Building CXX object PDFWriter/CMakeFiles/PDFWriter.dir/FontDescriptorWriter.cpp.o
+[74/217] Building CXX object PDFWriter/CMakeFiles/PDFWriter.dir/DecryptionHelper.cpp.o
+[75/217] Building CXX object PDFWriter/CMakeFiles/PDFWriter.dir/FreeTypeOpenTypeWrapper.cpp.o
+[76/217] Building CXX object PDFWriter/CMakeFiles/PDFWriter.dir/EncryptionHelper.cpp.o
+[77/217] Building CXX object PDFWriter/CMakeFiles/PDFWriter.dir/FreeTypeType1Wrapper.cpp.o
+[78/217] Building CXX object PDFWriter/CMakeFiles/PDFWriter.dir/FreeTypeFaceWrapper.cpp.o
+[79/217] Building CXX object PDFWriter/CMakeFiles/PDFWriter.dir/GraphicStateStack.cpp.o
+[80/217] Building CXX object PDFWriter/CMakeFiles/PDFWriter.dir/InputByteArrayStream.cpp.o
+[81/217] Building CXX object PDFWriter/CMakeFiles/PDFWriter.dir/FreeTypeWrapper.cpp.o
+[82/217] Building CXX object PDFWriter/CMakeFiles/PDFWriter.dir/InputCharStringDecodeStream.cpp.o
+[83/217] Building CXX object PDFWriter/CMakeFiles/PDFWriter.dir/InputAESDecodeStream.cpp.o
+[84/217] Building CXX object PDFWriter/CMakeFiles/PDFWriter.dir/InputFile.cpp.o
+[85/217] Building CXX object PDFWriter/CMakeFiles/PDFWriter.dir/InputAscii85DecodeStream.cpp.o
+[86/217] Building CXX object PDFWriter/CMakeFiles/PDFWriter.dir/InputAsciiHexDecodeStream.cpp.o
+[87/217] Building CXX object PDFWriter/CMakeFiles/PDFWriter.dir/InputBufferedStream.cpp.o
+[88/217] Building CXX object PDFWriter/CMakeFiles/PDFWriter.dir/InputOffsetStream.cpp.o
+[89/217] Building CXX object PDFWriter/CMakeFiles/PDFWriter.dir/IndirectObjectsReferenceRegistry.cpp.o
+[90/217] Building CXX object PDFWriter/CMakeFiles/PDFWriter.dir/InfoDictionary.cpp.o
+[91/217] Building CXX object PDFWriter/CMakeFiles/PDFWriter.dir/InputDCTDecodeStream.cpp.o
+[92/217] Building CXX object PDFWriter/CMakeFiles/PDFWriter.dir/Log.cpp.o
+[93/217] Building CXX object PDFWriter/CMakeFiles/PDFWriter.dir/InputFileStream.cpp.o
+[94/217] Building CXX object PDFWriter/CMakeFiles/PDFWriter.dir/InputLimitedStream.cpp.o
+[95/217] Building CXX object PDFWriter/CMakeFiles/PDFWriter.dir/InputStreamSkipperStream.cpp.o
+[96/217] Building CXX object PDFWriter/CMakeFiles/PDFWriter.dir/InputFlateDecodeStream.cpp.o
+[97/217] Building CXX object PDFWriter/CMakeFiles/PDFWriter.dir/JPEGImageInformation.cpp.o
+[98/217] Building CXX object PDFWriter/CMakeFiles/PDFWriter.dir/InputRC4XcodeStream.cpp.o
+[99/217] Building CXX object PDFWriter/CMakeFiles/PDFWriter.dir/InputLZWDecodeStream.cpp.o
+[100/217] Building CXX object PDFWriter/CMakeFiles/PDFWriter.dir/JPEGImageParser.cpp.o
+[101/217] Building CXX object PDFWriter/CMakeFiles/PDFWriter.dir/InputPredictorPNGOptimumStream.cpp.o
+[102/217] Building CXX object PDFWriter/CMakeFiles/PDFWriter.dir/InputPredictorTIFFSubStream.cpp.o
+[103/217] Building CXX object PDFWriter/CMakeFiles/PDFWriter.dir/InputPFBDecodeStream.cpp.o
+[104/217] Building CXX object PDFWriter/CMakeFiles/PDFWriter.dir/InputStringStream.cpp.o
+[105/217] Building CXX object PDFWriter/CMakeFiles/PDFWriter.dir/RC4.cpp.o
+[106/217] Building CXX object PDFWriter/CMakeFiles/PDFWriter.dir/OpenTypePrimitiveReader.cpp.o
+[107/217] Building CXX object PDFWriter/CMakeFiles/PDFWriter.dir/OutputBufferedStream.cpp.o
+[108/217] Building CXX object PDFWriter/CMakeFiles/PDFWriter.dir/InputStringBufferStream.cpp.o
+[109/217] Building CXX object PDFWriter/CMakeFiles/PDFWriter.dir/OutputFile.cpp.o
+[110/217] Building CXX object PDFWriter/CMakeFiles/PDFWriter.dir/MD5Generator.cpp.o
+[111/217] Building CXX object PDFWriter/CMakeFiles/PDFWriter.dir/PageTree.cpp.o
+[112/217] Building CXX object PDFWriter/CMakeFiles/PDFWriter.dir/OutputStreamTraits.cpp.o
+[113/217] Building CXX object PDFWriter/CMakeFiles/PDFWriter.dir/OutputAESEncodeStream.cpp.o
+[114/217] Building CXX object PDFWriter/CMakeFiles/PDFWriter.dir/OutputFileStream.cpp.o
+[115/217] Building CXX object PDFWriter/CMakeFiles/PDFWriter.dir/OutputFlateDecodeStream.cpp.o
+[116/217] Building CXX object PDFWriter/CMakeFiles/PDFWriter.dir/ObjectsContext.cpp.o
+[117/217] Building CXX object PDFWriter/CMakeFiles/PDFWriter.dir/DocumentContext.cpp.o
+/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/PDFWriter/DocumentContext.cpp:3074:12: warning: enumeration values 'eUndefined', 'eTIFF', and 'ePNG' not handled in switch [-Wswitch]
+    switch(imageType)
+           ^
+1 warning generated.
+[118/217] Building CXX object PDFWriter/CMakeFiles/PDFWriter.dir/OutputRC4XcodeStream.cpp.o
+[119/217] Building CXX object PDFWriter/CMakeFiles/PDFWriter.dir/OutputFlateEncodeStream.cpp.o
+[120/217] Building CXX object PDFWriter/CMakeFiles/PDFWriter.dir/JPEGImageHandler.cpp.o
+[121/217] Building CXX object PDFWriter/CMakeFiles/PDFWriter.dir/OpenTypeFileInput.cpp.o
+[122/217] Building CXX object PDFWriter/CMakeFiles/PDFWriter.dir/PDFArray.cpp.o
+[123/217] Building CXX object PDFWriter/CMakeFiles/PDFWriter.dir/PDFDocEncoding.cpp.o
+[124/217] Building CXX object PDFWriter/CMakeFiles/PDFWriter.dir/OutputStringBufferStream.cpp.o
+[125/217] Building CXX object PDFWriter/CMakeFiles/PDFWriter.dir/PDFBoolean.cpp.o
+[126/217] Building CXX object PDFWriter/CMakeFiles/PDFWriter.dir/ParsedPrimitiveHelper.cpp.o
+[127/217] Building CXX object PDFWriter/CMakeFiles/PDFWriter.dir/PDFDate.cpp.o
+[128/217] Building CXX object PDFWriter/CMakeFiles/PDFWriter.dir/PDFDictionary.cpp.o
+[129/217] Building CXX object PDFWriter/CMakeFiles/PDFWriter.dir/PageContentContext.cpp.o
+[130/217] Building CXX object PDFWriter/CMakeFiles/PDFWriter.dir/PDFHexString.cpp.o
+[131/217] Building CXX object PDFWriter/CMakeFiles/PDFWriter.dir/PDFCosArray.cpp.o
+[132/217] Building CXX object PDFWriter/CMakeFiles/PDFWriter.dir/PDFCosDict.cpp.o
+[133/217] Building CXX object PDFWriter/CMakeFiles/PDFWriter.dir/PDFFormXObject.cpp.o
+[134/217] Building CXX object PDFWriter/CMakeFiles/PDFWriter.dir/PDFInteger.cpp.o
+[135/217] Building CXX object PDFWriter/CMakeFiles/PDFWriter.dir/PDFTiledPattern.cpp.o
+[136/217] Building CXX object PDFWriter/CMakeFiles/PDFWriter.dir/PDFIndirectObjectReference.cpp.o
+[137/217] Building CXX object PDFWriter/CMakeFiles/PDFWriter.dir/PDFImageXObject.cpp.o
+[138/217] Building CXX object PDFWriter/CMakeFiles/PDFWriter.dir/PDFDocumentCopyingContext.cpp.o
+[139/217] Building CXX object PDFWriter/CMakeFiles/PDFWriter.dir/PDFName.cpp.o
+[140/217] Building CXX object PDFWriter/CMakeFiles/PDFWriter.dir/PDFLiteralString.cpp.o
+[141/217] Building CXX object PDFWriter/CMakeFiles/PDFWriter.dir/PDFNull.cpp.o
+[142/217] Building CXX object PDFWriter/CMakeFiles/PDFWriter.dir/TiledPatternContentContext.cpp.o
+[143/217] Building CXX object PDFWriter/CMakeFiles/PDFWriter.dir/PDFPage.cpp.o
+[144/217] Building CXX object PDFWriter/CMakeFiles/PDFWriter.dir/PDFObject.cpp.o
+[145/217] Building CXX object PDFWriter/CMakeFiles/PDFWriter.dir/PDFPageInput.cpp.o
+[146/217] Building CXX object PDFWriter/CMakeFiles/PDFWriter.dir/PDFObjectParser.cpp.o
+[147/217] Building CXX object PDFWriter/CMakeFiles/PDFWriter.dir/PDFReal.cpp.o
+[148/217] Building CXX object PDFWriter/CMakeFiles/PDFWriter.dir/PDFRectangle.cpp.o
+[149/217] Building CXX object PDFWriter/CMakeFiles/PDFWriter.dir/PDFDocumentHandler.cpp.o
+[150/217] Building CXX object PDFWriter/CMakeFiles/PDFWriter.dir/PDFParsingOptions.cpp.o
+[151/217] Building CXX object PDFWriter/CMakeFiles/PDFWriter.dir/PDFParserTokenizer.cpp.o
+[152/217] Building CXX object PDFWriter/CMakeFiles/PDFWriter.dir/PDFModifiedPage.cpp.o
+[153/217] Building CXX object PDFWriter/CMakeFiles/PDFWriter.dir/PDFArrayIterator.cpp.o
+[154/217] Building CXX object PDFWriter/CMakeFiles/PDFWriter.dir/PDFDictionaryIterator.cpp.o
+[155/217] Building CXX object PDFWriter/CMakeFiles/PDFWriter.dir/PDFPageMergingHelper.cpp.o
+[156/217] Building CXX object PDFWriter/CMakeFiles/PDFWriter.dir/PDFStreamInput.cpp.o
+[157/217] Building CXX object PDFWriter/CMakeFiles/PDFWriter.dir/PNGImageHandler.cpp.o
+[158/217] Building CXX object PDFWriter/CMakeFiles/PDFWriter.dir/RefCountObject.cpp.o
+[159/217] Building CXX object PDFWriter/CMakeFiles/PDFWriter.dir/PDFSymbol.cpp.o
+[160/217] Building CXX object PDFWriter/CMakeFiles/PDFWriter.dir/PDFParser.cpp.o
+[161/217] Building CXX object PDFWriter/CMakeFiles/PDFWriter.dir/PDFStream.cpp.o
+[162/217] Building CXX object PDFWriter/CMakeFiles/PDFWriter.dir/StandardEncoding.cpp.o
+[163/217] Building CXX object PDFWriter/CMakeFiles/PDFWriter.dir/PFMFileReader.cpp.o
+[164/217] Building CXX object PDFWriter/CMakeFiles/PDFWriter.dir/PDFTextString.cpp.o
+[165/217] Building CXX object PDFWriter/CMakeFiles/PDFWriter.dir/Timer.cpp.o
+[166/217] Building CXX object PDFWriter/CMakeFiles/PDFWriter.dir/TIFFImageHandler.cpp.o
+[167/217] Building CXX object PDFWriter/CMakeFiles/PDFWriter.dir/TiffUsageParameters.cpp.o
+[168/217] Building CXX object PDFWriter/CMakeFiles/PDFWriter.dir/PSBool.cpp.o
+[169/217] Building CXX object PDFWriter/CMakeFiles/PDFWriter.dir/StateReader.cpp.o
+[170/217] Building CXX object PDFWriter/CMakeFiles/PDFWriter.dir/PrimitiveObjectsWriter.cpp.o
+[171/217] Building CXX object PDFWriter/CMakeFiles/PDFWriter.dir/SimpleStringTokenizer.cpp.o
+[172/217] Building CXX object PDFWriter/CMakeFiles/PDFWriter.dir/PDFUsedFont.cpp.o
+[173/217] Building CXX object PDFWriter/CMakeFiles/PDFWriter.dir/Trace.cpp.o
+[174/217] Building CXX object PDFWriter/CMakeFiles/PDFWriter.dir/StateWriter.cpp.o
+[175/217] Building CXX object PDFWriter/CMakeFiles/PDFWriter.dir/PDFWriter.cpp.o
+[176/217] Building CXX object PDFWriter/CMakeFiles/PDFWriter.dir/TimersRegistry.cpp.o
+[177/217] Building CXX object PDFWriter/CMakeFiles/PDFWriter.dir/ResourcesDictionary.cpp.o
+[178/217] Building CXX object PDFWriter/CMakeFiles/PDFWriter.dir/Type2CharStringWriter.cpp.o
+[179/217] Building CXX object PDFWriter/CMakeFiles/PDFWriter.dir/TrailerInformation.cpp.o
+[180/217] Building CXX object PDFWriter/CMakeFiles/PDFWriter.dir/TrueTypePrimitiveWriter.cpp.o
+[181/217] Building CXX object PDFWriter/CMakeFiles/PDFWriter.dir/UppercaseSequance.cpp.o
+[182/217] Building CXX object PDFWriter/CMakeFiles/PDFWriter.dir/WinAnsiEncoding.cpp.o
+[183/217] Building CXX object PDFWriter/CMakeFiles/PDFWriter.dir/UnicodeString.cpp.o
+[184/217] Building CXX object PDFWriter/CMakeFiles/PDFWriter.dir/TrueTypeDescendentFontWriter.cpp.o
+[185/217] Building CXX object PDFWriter/CMakeFiles/PDFWriter.dir/TrueTypeANSIFontWriter.cpp.o
+[186/217] Building C object ZLib/CMakeFiles/Zlib.dir/miniunz.c.o
+[187/217] Building CXX object PDFWriter/CMakeFiles/PDFWriter.dir/Type1Input.cpp.o
+[188/217] Building C object ZLib/CMakeFiles/Zlib.dir/ioapi.c.o
+/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/ZLib/ioapi.c:163:21: warning: implicit declaration of function 'ftello' is invalid in C99 [-Wimplicit-function-declaration]
+    ret = (ZPOS64_T)FTELLO_FUNC((FILE *)stream);
+                    ^
+/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/ZLib/ioapi.c:24:29: note: expanded from macro 'FTELLO_FUNC'
+#define FTELLO_FUNC(stream) ftello(stream)
+                            ^
+/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/ZLib/ioapi.c:211:8: warning: implicit declaration of function 'fseeko' is invalid in C99 [-Wimplicit-function-declaration]
+    if(FSEEKO_FUNC((FILE *)stream, (z_off_t)offset, fseek_origin) != 0)
+       ^
+/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/ZLib/ioapi.c:25:45: note: expanded from macro 'FSEEKO_FUNC'
+#define FSEEKO_FUNC(stream, offset, origin) fseeko(stream, offset, origin)
+                                            ^
+2 warnings generated.
+[189/217] Building CXX object PDFWriter/CMakeFiles/PDFWriter.dir/TrueTypeEmbeddedFontWriter.cpp.o
+[190/217] Building C object ZLib/CMakeFiles/Zlib.dir/unzip.c.o
+[191/217] Building C object ZLib/CMakeFiles/Zlib.dir/zip.c.o
+[192/217] Building C object ZLib/CMakeFiles/Zlib.dir/zutil.c.o
+[193/217] Building C object ZLib/CMakeFiles/Zlib.dir/minizip.c.o
+/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/ZLib/minizip.c:233:5: warning: implicit declaration of function 'fseeko' is invalid in C99 [-Wimplicit-function-declaration]
+    FSEEKO_FUNC(pFile, 0, SEEK_END);
+    ^
+/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/ZLib/minizip.c:39:45: note: expanded from macro 'FSEEKO_FUNC'
+#define FSEEKO_FUNC(stream, offset, origin) fseeko(stream, offset, origin)
+                                            ^
+/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/ZLib/minizip.c:234:21: warning: implicit declaration of function 'ftello' is invalid in C99 [-Wimplicit-function-declaration]
+    pos = (ZPOS64_T)FTELLO_FUNC(pFile);
+                    ^
+/Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/src/main/cpp/ZLib/minizip.c:38:29: note: expanded from macro 'FTELLO_FUNC'
+#define FTELLO_FUNC(stream) ftello(stream)
+                            ^
+2 warnings generated.
+[194/217] Building C object ZLib/CMakeFiles/Zlib.dir/uncompr.c.o
+[195/217] Building C object ZLib/CMakeFiles/Zlib.dir/trees.c.o
+[196/217] Building C object ZLib/CMakeFiles/Zlib.dir/inftrees.c.o
+[197/217] Building C object ZLib/CMakeFiles/Zlib.dir/inffast.c.o
+[198/217] Building CXX object PDFWriter/CMakeFiles/PDFWriter.dir/Type1ToType2Converter.cpp.o
+[199/217] Building C object ZLib/CMakeFiles/Zlib.dir/infback.c.o
+[200/217] Building C object ZLib/CMakeFiles/Zlib.dir/inflate.c.o
+[201/217] Building C object ZLib/CMakeFiles/Zlib.dir/gzread.c.o
+[202/217] Building C object ZLib/CMakeFiles/Zlib.dir/gzlib.c.o
+[203/217] Building C object ZLib/CMakeFiles/Zlib.dir/gzclose.c.o
+[204/217] Building C object ZLib/CMakeFiles/Zlib.dir/gzwrite.c.o
+[205/217] Building C object ZLib/CMakeFiles/Zlib.dir/crc32.c.o
+[206/217] Building C object ZLib/CMakeFiles/Zlib.dir/compress.c.o
+[207/217] Building C object ZLib/CMakeFiles/Zlib.dir/adler32.c.o
+[208/217] Building CXX object PDFWriter/CMakeFiles/PDFWriter.dir/Type1ToCFFEmbeddedFontWriter.cpp.o
+[209/217] Building C object ZLib/CMakeFiles/Zlib.dir/deflate.c.o
+[210/217] Linking C static library ZLib/libZlib.a
+[211/217] Building CXX object PDFWriter/CMakeFiles/PDFWriter.dir/XCryptionCommon.cpp.o
+[212/217] Building CXX object PDFWriter/CMakeFiles/PDFWriter.dir/WrittenFontCFF.cpp.o
+[213/217] Building CXX object PDFWriter/CMakeFiles/PDFWriter.dir/UsedFontsRepository.cpp.o
+[214/217] Building CXX object PDFWriter/CMakeFiles/PDFWriter.dir/WrittenFontTrueType.cpp.o
+[215/217] Building CXX object PDFWriter/CMakeFiles/PDFWriter.dir/XObjectContentContext.cpp.o
+[216/217] Linking CXX static library PDFWriter/libPDFWriter.a
+[217/217] Linking CXX shared library /Users/jerrywu/Dev/ctyun/FileTrace/fileTrace/build/intermediates/cmake/debug/obj/arm64-v8a/libctgfiletrace-lib.so
